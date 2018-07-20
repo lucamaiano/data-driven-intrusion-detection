@@ -1,2 +1,6 @@
-# data-driven-intrusion-detection-
-Data-driven detection of cybersecurity threats in IoT networks.
+# Data-driven intrusion detection
+
+## IPv&LoWPAN 
+## How nodes are connected via RPL
+## CoAP protocol 
+## Black Hole attack
