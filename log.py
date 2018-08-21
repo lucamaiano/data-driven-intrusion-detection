@@ -1,14 +1,17 @@
-# Import the module
 import subprocess
 
-
 # Ask the user for input
-host = input("Enter a node to ping: ")	
+host = input("Enter a node or a list of nodes to ping: ")	
+output = ''
 
-# Set up the echo command and direct the output to a pipe
+# The user provided a list of nodes
+if len(host.split(',')) > 1:
+	for h in host.split(','):
+		output += str(subprocess.Popen(['ping', '-c 3', h], stdout=subprocess.PIPE).communicate()[0]) + '\n'
+# The user provided a single node
+else:
+	output += str(subprocess.Popen(['ping', '-c 3', host], stdout=subprocess.PIPE).communicate()[0]) + '\n'
 
-output = subprocess.Popen(['ping', '-c 2', host], stdout=subprocess.PIPE).communicate()
-
-
+# Write the results on file
 with open('ping.log', 'a') as log:
-	log.write(str(output))
+	log.write(output)
