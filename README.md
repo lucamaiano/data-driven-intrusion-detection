@@ -94,8 +94,8 @@ INET6_ADDR=2001:0660:3207:0400::1/64
 ```
 8. Now, in another terminal, log on the remaining A8 nodes and flash the gnrc_networking firmware on the M3:
 ```
-my_computer$ ssh <login>@saclay.iot-lab.info
-<login>@saclay:~$ ssh root@node-a8-<id>
+my_computer$ ssh <login>@grenoble.iot-lab.info
+<login>@grenoble:~$ ssh root@node-a8-<id>
 root@node-a8-2:~# flash_a8_m3 A8/gnrc_networking.elf
 ```
 
