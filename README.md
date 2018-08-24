@@ -36,7 +36,7 @@ In a bit more complex scenario, a couple of malicious nodes collaborate together
 
 ## The Experiment
 
-In order to symulate an intrusion, the first step to perform is collecting data from a network. In this experiment we set up a public IPv6/6LoWPAN network with RIOT on 15 A8-M3 nodes on Iot-Lab. 
+In order to symulate an intrusion, the first step to perform is collecting data from a network. In this experiment we set up a public IPv6/6LoWPAN network with RIOT on 15 A8-M3 nodes on Iot-Lab. If you don't have an account on the Iot-Lab website, please register.
 1. Connect to a site host:
 ```
 my_computer$ ssh <login>@<site>.iot-lab.info
