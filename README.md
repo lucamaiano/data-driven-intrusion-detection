@@ -85,7 +85,7 @@ net.ipv6.conf.tap0.accept_ra = 0
 ----> ethos: activating serial pass through.
 ----> ethos: hello reply received
 ```
-Note that we propagate another subnetwork for the border router (M3 node) in our LLN, 2001:660:3207:401::/64. You can find informations about IPv6 subnetting for A8-M3 nodes here. You can also get this prefix directly on the A8 node :
+Note that we propagate another subnetwork for the border router (M3 node) in our LLN, 2001:660:3207:401::/64. You can also get this prefix directly on the A8 node :
 ```
 root@node-a8-<id>:~# printenv
 INET6_PREFIX_LEN=64
