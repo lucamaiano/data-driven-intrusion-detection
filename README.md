@@ -32,3 +32,80 @@ The image below shows an example of a *single black hole attack*. Node 1 stands 
 ![Black Hole attack](images/blackhole_attack.png)
 
 In a bit more complex scenario, a couple of malicious nodes collaborate together in order to beguile the normal into their fabricated routing information, hiding from the existing detection scheme.
+
+
+## The Experiment
+
+In order to symulate an intrusion, the first step to perform is collecting data from a network. In this experiment we set up a public IPv6/6LoWPAN network with RIOT on 15 A8-M3 nodes on Iot-Lab. 
+1. Connect to a site host:
+```
+my_computer$ ssh <login>@<site>.iot-lab.info
+```
+2. In this experiment we choosed *grenoble* as site host. Start an experiment called **riot_a8** that contains `<num_of_nodes>` A8 nodes:
+```
+<login>@grenoble:~$ iotlab-auth -u <login> 
+<login>@grenoble:~$ iotlab-experiment submit -n riot_a8 -d 60 -l <num_of_nodes>,archi=a8:at86rf231+site=grenoble
+```
+3. Wait a moment until the experiment is launched (state is Running) and get the nodes list. You will obtain a list that contains nodes called `a8-<id>.grenoble.iot-lab.info`. The first node of the list will act as border router node.
+```
+ <login>@grenoble:~$ iotlab-experiment get -i <exp_id> -s
+ <login>@grenoble:~$ iotlab-experiment get -i <exp_id> -r
+```
+4. Get the code of the 2017.07 release of RIOT from GitHub:
+```
+<login>@grenoble:~$ mkdir -p ~/A8/riot
+<login>@grenoble:~$ cd ~/A8/riot
+<login>@grenoble:~/A8/riot$ git clone https://github.com/RIOT-OS/RIOT.git
+<login>@grenoble:~/A8/riot$ cd RIOT
+<login>@grenoble:~/A8/riot$ git checkout 2017.07-branch
+```
+5. Build the required firmware for the border router node. The border firmware is built using the RIOT *gnrc_border_router* example.
+```
+<login>@grenoble:~/A8/riot$ cd RIOT/examples/gnrc_border_router
+<login>@grenoble:~/A8/riot/RIOT/examples/gnrc_border_router$ make ETHOS_BAUDRATE=500000 DEFAULT_CHANNEL=<channel> BOARD=iotlab-a8-m3 clean all
+<login>@grenoble:~/A8/riot/RIOT/examples/gnrc_border_router$ cp bin/iotlab-a8-m3/gnrc_border_router.elf ~/A8/.
+```
+6. Build the required firmware for the other nodes. RIOT *gnrc_networking* example will be used for this purpose.
+```
+<login>@grenoble:~/A8/riot/RIOT/examples/gnrc_border_router$ cd ../gnrc_networking 
+<login>@grenoble:~/A8/riot/RIOT/examples/gnrc_networking$ make DEFAULT_CHANNEL=<channel> BOARD=iotlab-a8-m3 clean all
+<login>@grenoble:~/A8/riot/RIOT/examples/gnrc_networking$ cp bin/iotlab-a8-m3/gnrc_networking.elf ~/A8/
+```
+7. Connect to the A8 of the M3 border router: `node-a8-<id>`.
+```
+<login>@grenoble:~$ ssh root@node-a8-<id>
+```
+Then flash the BR firmware on the M3 and build the required RIOT configuration tools: uhcpd (*Micro Host Configuration Protocol*) and ethos (*Ethernet Over Serial*).
+On the border router, the network can finally be configured automatically using the following commands:
+```
+root@node-a8-1:~/A8/riot/RIOT/dist/tools/ethos# ./start_network.sh /dev/ttyA8_M3 tap0 2001:660:3207:401::/64 500000
+net.ipv6.conf.tap0.forwarding = 1
+net.ipv6.conf.tap0.accept_ra = 0
+----> ethos: sending hello.
+----> ethos: activating serial pass through.
+----> ethos: hello reply received
+```
+Note that we propagate another subnetwork for the border router (M3 node) in our LLN, 2001:660:3207:401::/64. You can find informations about IPv6 subnetting for A8-M3 nodes here. You can also get this prefix directly on the A8 node :
+```
+root@node-a8-1:~# printenv
+INET6_PREFIX_LEN=64
+INET6_PREFIX=2001:0660:3207:401
+INET6_ADDR=2001:0660:3207:0400::1/64
+```
+8. Now, in another terminal, log on the remaining A8 nodes and flash the gnrc_networking firmware on the M3:
+```
+my_computer$ ssh <login>@saclay.iot-lab.info
+<login>@saclay:~$ ssh root@node-a8-<id>
+root@node-a8-2:~# flash_a8_m3 A8/gnrc_networking.elf
+```
+
+
+
+
+
+
+
+
+
+
+

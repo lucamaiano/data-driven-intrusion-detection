@@ -7,10 +7,10 @@ output = ''
 # The user provided a list of nodes
 if len(host.split(',')) > 1:
 	for h in host.split(','):
-		output += str(subprocess.Popen(['ping', '-c 3', h], stdout=subprocess.PIPE).communicate()[0]) + '\n'
+		output += str(subprocess.Popen(['ping', '-c 10', h], stdout=subprocess.PIPE).communicate()[0]) + '\n'
 # The user provided a single node
 else:
-	output += str(subprocess.Popen(['ping', '-c 3', host], stdout=subprocess.PIPE).communicate()[0]) + '\n'
+	output += str(subprocess.Popen(['ping', '-c 10', host], stdout=subprocess.PIPE).communicate()[0]) + '\n'
 
 # Write the results on file
 with open('ping.log', 'a') as log:
