@@ -78,7 +78,7 @@ my_computer$ ssh <login>@<site>.iot-lab.info
 Then flash the BR firmware on the M3 and build the required RIOT configuration tools: uhcpd (*Micro Host Configuration Protocol*) and ethos (*Ethernet Over Serial*).
 On the border router, the network can finally be configured automatically using the following commands:
 ```
-root@node-a8-1:~/A8/riot/RIOT/dist/tools/ethos# ./start_network.sh /dev/ttyA8_M3 tap0 2001:660:3207:401::/64 500000
+root@node-a8-<id>:~/A8/riot/RIOT/dist/tools/ethos# ./start_network.sh /dev/ttyA8_M3 tap0 2001:660:3207:401::/64 500000
 net.ipv6.conf.tap0.forwarding = 1
 net.ipv6.conf.tap0.accept_ra = 0
 ----> ethos: sending hello.
@@ -87,7 +87,7 @@ net.ipv6.conf.tap0.accept_ra = 0
 ```
 Note that we propagate another subnetwork for the border router (M3 node) in our LLN, 2001:660:3207:401::/64. You can find informations about IPv6 subnetting for A8-M3 nodes here. You can also get this prefix directly on the A8 node :
 ```
-root@node-a8-1:~# printenv
+root@node-a8-<id>:~# printenv
 INET6_PREFIX_LEN=64
 INET6_PREFIX=2001:0660:3207:401
 INET6_ADDR=2001:0660:3207:0400::1/64
@@ -96,9 +96,23 @@ INET6_ADDR=2001:0660:3207:0400::1/64
 ```
 my_computer$ ssh <login>@grenoble.iot-lab.info
 <login>@grenoble:~$ ssh root@node-a8-<id>
-root@node-a8-2:~# flash_a8_m3 A8/gnrc_networking.elf
+root@node-a8-<id>:~# flash_a8_m3 A8/gnrc_networking.elf
 ```
-
+9. Still in the border router, clone this responsory to automatically ping all the other nodes:
+```
+root@node-a8-<id>:~# cd
+root@node-a8-<id>:~# git clone https://github.com/lucamaiano/data-driven-intrusion-detection
+root@node-a8-<id>:~# cd data-driven-intrusion-detection/data
+root@node-a8-<id>:~# python3 log.py
+```
+The `log.py` script will ask you to prompt the list of A8 nodes that you want to ping from the border router:
+```
+root@node-a8-<id>:~# Enter a node or a list of nodes to ping: <node-a8-<id1>,node-a8-<id2>,...,node-a8-<idN>
+```
+This command will generate a new file called `ping.log`. Now you can read the file with the results of the experiment.
+```
+root@node-a8-<id>:~# less ping.log
+```
 
 
 
