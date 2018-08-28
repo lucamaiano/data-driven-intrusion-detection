@@ -42,98 +42,86 @@ In a bit more complex scenario, a couple of malicious nodes collaborate together
 
 ## The Experiment
 
-In order to symulate an intrusion, the first step to perform is collecting data from a network. In this experiment we set up a public IPv6/6LoWPAN network with RIOT on 15 M3 nodes on Iot-Lab. If you don't have an account on the Iot-Lab website, please register.
+In order to symulate an intrusion, the first step to perform is collecting data from a network. In this experiment we set up a public IPv6/6LoWPAN network with RIOT on 15 A8-M3 nodes on Iot-Lab. If you don't have an account on the Iot-Lab website, please register.
 1. Connect to a site host:
 ```
 my_computer$ ssh <login>@<site>.iot-lab.info
 ```
-2. In this experiment we choosed *grenoble* as site host. Start an experiment called **riot_m3** that contains `<num_of_nodes>` M3 nodes:
+2. In this experiment we choosed *grenoble* as site host. Start an experiment called **riot_a8** that contains `<num_of_nodes>` A8 nodes:
 ```
 <login>@grenoble:~$ iotlab-auth -u <login> 
-<login>@grenoble:~$ iotlab-experiment submit -n riot_m3 -d 60 -l grenoble,m3,2+4-5+9-11+15-25
+<login>@grenoble:~$ iotlab-experiment submit -n riot_a8 -d 60 -l <num_of_nodes>,archi=a8:at86rf231+site=grenoble
 ```
-3. Wait a moment until the experiment is launched (state is Running) and get the nodes list.
+**Note**: You can even choose exactely which nodes you want to use for the experiment.
 ```
- <login>@grenoble:~$ iotlab-experiment get -li
+<login>@grenoble:~$ iotlab-experiment submit -n riot_m3 -d 60 -l grenoble,a8,<node_ids>
+```
+3. Wait a moment until the experiment is launched (state is Running) and get the nodes list. You will obtain a list that contains nodes called `a8-<id>.grenoble.iot-lab.info`. The first node of the list will act as border router node.
+```
+ <login>@grenoble:~$ iotlab-experiment get -i <exp_id> -s
+ <login>@grenoble:~$ iotlab-experiment get -i <exp_id> -r
 ```
 4. Get the code of the 2017.07 release of RIOT from GitHub:
 ```
-<login>@grenoble:~$ mkdir -p ~/riot
-<login>@grenoble:~$ cd ~/riot
-<login>@grenoble:~/riot$ git clone https://github.com/RIOT-OS/RIOT.git
-<login>@grenoble:~/riot$ cd RIOT
-<login>@grenoble:~/riot$ git checkout -b 2017.07-branch
+<login>@grenoble:~$ mkdir -p ~/A8/riot
+<login>@grenoble:~$ cd ~/A8/riot
+<login>@grenoble:~/A8/riot$ git clone https://github.com/RIOT-OS/RIOT.git
+<login>@grenoble:~/A8/riot$ cd RIOT
+<login>@grenoble:~/A8/riot$ git checkout 2017.07-branch
 ```
-Build the required firmware for the border router node. The node m3-2 will act as the border router in this experiment. The border firmware is built using the RIOT gnrc_border_router example.
+5. Build the required firmware for the border router node. The border firmware is built using the RIOT *gnrc_border_router* example.
 ```
-<login>@grenoble:~/riot/RIOT/$ make ETHOS_BAUDRATE=500000 DEFAULT_CHANNEL=<channel> BOARD=iotlab-m3 -C examples/gnrc_border_router clean all
+<login>@grenoble:~/A8/riot$ cd RIOT/examples/gnrc_border_router
+<login>@grenoble:~/A8/riot/RIOT/examples/gnrc_border_router$ make ETHOS_BAUDRATE=500000 DEFAULT_CHANNEL=<channel> BOARD=iotlab-a8-m3 clean all
+<login>@grenoble:~/A8/riot/RIOT/examples/gnrc_border_router$ cp bin/iotlab-a8-m3/gnrc_border_router.elf ~/A8/.
 ```
-5. Now you can configure the network of the border router on m3-2 and propagate an IPv6 prefix with *ethos_uhcpd.py*.
+6. Build the required firmware for the other nodes. RIOT *gnrc_networking* example will be used for this purpose.
 ```
-<login>@grenoble:~$ sudo ethos_uhcpd.py m3-1 tap0 2001:660:5307:3100::1/64
+<login>@grenoble:~/A8/riot/RIOT/examples/gnrc_border_router$ cd ../gnrc_networking 
+<login>@grenoble:~/A8/riot/RIOT/examples/gnrc_networking$ make DEFAULT_CHANNEL=<channel> BOARD=iotlab-a8-m3 clean all
+<login>@grenoble:~/A8/riot/RIOT/examples/gnrc_networking$ cp bin/iotlab-a8-m3/gnrc_networking.elf ~/A8/
 ```
-The network is finally configured:
+7. Connect to the A8 of the M3 border router: `node-a8-<id>`.
 ```
+<login>@grenoble:~$ ssh root@node-a8-<id>
+```
+Then flash the BR firmware on the M3 and build the required RIOT configuration tools: uhcpd (*Micro Host Configuration Protocol*) and ethos (*Ethernet Over Serial*).
+On the border router, the network can finally be configured automatically using the following commands:
+```
+root@node-a8-<id>:~/A8/riot/RIOT/dist/tools/ethos# ./start_network.sh /dev/ttyA8_M3 tap0 2001:660:3207:401::/64 500000
 net.ipv6.conf.tap0.forwarding = 1
 net.ipv6.conf.tap0.accept_ra = 0
 ----> ethos: sending hello.
 ----> ethos: activating serial pass through.
 ----> ethos: hello reply received
 ```
-**Note 1**: leave the terminal open (you don’t want to kill ethos_uhcpd.py, it bridges the BR to the front-end network).
-**Note 2**: If you have an error “Invalid prefix – Network overlapping with routes”, it’s because another experiment is using the same ipv6 prefix (e.g. 2001:660:5307:3100::1/64).
-**Note 3**: If you have an error “Device or resource busy”, it’s because another user is using the same tap interface (e.g. tap0). Just use another one.
-6. Build the required firmware for the other nodes. Open another terminal with SSH and type:
+Note that we propagate another subnetwork for the border router (M3 node) in our LLN, 2001:660:3207:401::/64. You can also get this prefix directly on the A8 node :
 ```
-<login>@grenoble:~/riot/RIOT/$ make DEFAULT_CHANNEL=<channel> BOARD=iotlab-m3 -C examples/gnrc_networking clean all
-<login>@grenoble:~/riot/RIOT/$ iotlab-node --update examples/gnrc_networking/bin/iotlab-m3/gnrc_networking.elf -l grenoble,m3,4-5+9-11+15-25
+root@node-a8-<id>:~# printenv
+INET6_PREFIX_LEN=64
+INET6_PREFIX=2001:0660:3207:401
+INET6_ADDR=2001:0660:3207:0400::1/64
 ```
-7. You can now interact with the other M3 nodes (`node-m3-<id>`) using nc.
+8. Now, in another terminal, log on the remaining A8 nodes and flash the gnrc_networking firmware on the M3:
 ```
 my_computer$ ssh <login>@grenoble.iot-lab.info
-<login>@grenoble:~$ nc m3-<id> 20000
+<login>@grenoble:~$ ssh root@node-a8-<id>
+root@node-a8-<id>:~# flash_a8_m3 A8/gnrc_networking.elf
 ```
-Use RIOT shell ifconfig command to get the IP of the M3 node:
+9. Still in the border router, clone this responsory to automatically ping all the other nodes:
 ```
-> ifconfig
-Iface  7   HWaddr: 29:02  Channel: 26  Page: 0  NID: 0x23
-        Long HWaddr: 36:32:48:33:46:df:a9:02 
-        TX-Power: 0dBm  State: IDLE  max. Retrans.: 3  CSMA Retries: 4 
-        AUTOACK  CSMA  MTU:1280  HL:64  6LO  RTR  RTR_ADV  IPHC  
-        Source address length: 8
-        Link type: wireless
-        inet6 addr: ff02::1/128  scope: local [multicast]
-        inet6 addr: fe80::1711:6b10:65fd:bd36/64  scope: local
-        inet6 addr: ff02::1:fffd:bd36/128  scope: local [multicast]
-        inet6 addr: 2001:660:3207:4c1:1711:6b10:65fd:bd36/64  scope: global
-        inet6 addr: ff02::2/128  scope: local [multicast]
-```
-The global prefix has been successfully propagated, the IP on the M3 is 2001:660:3207:4c1:1711:6b10:65fd:bd36. Verify that it answers to “ping” from the frontend SSH (and from any computer with a global IPv6):
-```
-<login>@grenoble:~$ ping6 -c 3 2001:660:3207:4c1:1711:6b10:65fd:bd36
-PING 2001:660:3207:4c1:1711:6b10:65fd:bd36(2001:660:3207:4c1:1711:6b10:65fd:bd36) 56 data bytes
-64 bytes from 2001:660:3207:4c1:1711:6b10:65fd:bd36: icmp_seq=1 ttl=61 time=45.7 ms
-64 bytes from 2001:660:3207:4c1:1711:6b10:65fd:bd36: icmp_seq=2 ttl=61 time=46.5 ms
-64 bytes from 2001:660:3207:4c1:1711:6b10:65fd:bd36: icmp_seq=3 ttl=61 time=44.9 ms
-
---- 2001:660:3207:4c1:1711:6b10:65fd:bd36 ping statistics ---
-3 packets transmitted, 3 received, 0% packet loss, time 2003ms
-rtt min/avg/max/mdev = 44.919/45.759/46.595/0.684 ms
-```
-8. Still in the border router, clone this responsory to automatically ping all the other nodes:
-```
-root@node-m3-<id>:~# cd
-root@node-m3-<id>:~# git clone https://github.com/lucamaiano/data-driven-intrusion-detection
-root@node-m3-<id>:~# cd data-driven-intrusion-detection/data
-root@node-m3-<id>:~# python3 log.py
+root@node-a8-<id>:~# cd
+root@node-a8-<id>:~# git clone https://github.com/lucamaiano/data-driven-intrusion-detection
+root@node-a8-<id>:~# cd data-driven-intrusion-detection/data
+root@node-a8-<id>:~# python3 log.py
 ```
 The `log.py` script will ask you to prompt the list of A8 nodes that you want to ping from the border router:
 ```
-root@node-m3-<id>:~# Enter a node or a list of nodes to ping: <node-m3-<id1>,node-m3-<id2>,...,node-m3-<idN>
+root@node-a8-<id>:~# Enter a node or a list of nodes to ping: <node-a8-<id1>,node-a8-<id2>,...,node-a8-<idN>
 ```
 This command will generate a new file called `ping.log`. Now you can read the file with the results of the experiment.
 ```
-root@node-m3-<id>:~# less ping.log
+root@node-a8-<id>:~# less ping.log
 ```
 
 
