@@ -67,11 +67,11 @@ my_computer$ ssh <login>@<site>.iot-lab.info
 <login>@grenoble:~$ cd ~/A8/riot
 <login>@grenoble:~/A8/riot$ git clone https://github.com/RIOT-OS/RIOT.git
 <login>@grenoble:~/A8/riot$ cd RIOT
-<login>@grenoble:~/A8/riot$ git checkout 2017.07-branch
+<login>@grenoble:~/A8/riot/RIOT$ git checkout 2017.07-branch
 ```
 5. Build the required firmware for the border router node. The border firmware is built using the RIOT *gnrc_border_router* example.
 ```
-<login>@grenoble:~/A8/riot$ cd RIOT/examples/gnrc_border_router
+<login>@grenoble:~/A8/riot$ cd examples/gnrc_border_router
 <login>@grenoble:~/A8/riot/RIOT/examples/gnrc_border_router$ make ETHOS_BAUDRATE=500000 DEFAULT_CHANNEL=<channel> BOARD=iotlab-a8-m3 clean all
 <login>@grenoble:~/A8/riot/RIOT/examples/gnrc_border_router$ cp bin/iotlab-a8-m3/gnrc_border_router.elf ~/A8/.
 ```
