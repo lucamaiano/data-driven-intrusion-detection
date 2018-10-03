@@ -64,13 +64,13 @@ my_computer$ ssh <login>@<site>.iot-lab.info
 my_computer:$ scp <login>@grenoble.iot-lab.info:riot/RIOT/examples/gnrc_networking/bin/iotlab-m3/gnrc_networking.elf gnrc_networking.elf
 ```
 5. Log into the Web portal with your account credentials and submit a new experiment:
- 1. Set an experiment name (no spaces nor funny chars in the experiment name)
- 2. Duration: 60 minutes and starting “As soon as possible“
- 3. Select nodes from list or map
- 4. Choose nodes from Site = grenoble / M3 (at86rf231) / Not Mobile and click “Add to experiment”
- 5. Add your binary firmware gnrc_networking.elf with nodes selected and click "Submit experiment"
-6. Wait experiment state Running in dashboard list. After click on experiment details and verify that you have Success in the deployment result
-7. First, we have to initialize RPL on all nodes for interface 7 (can be obtained by looking at the output of ifconfig). We use on the SSH frontend the serial aggregator to talk to all nodes:
+6. Set an experiment name (no spaces nor funny chars in the experiment name)
+7. Duration: 60 minutes and starting “As soon as possible“
+8. Select nodes from list or map
+9. Choose nodes from Site = grenoble / M3 (at86rf231) / Not Mobile and click “Add to experiment”
+10. Add your binary firmware gnrc_networking.elf with nodes selected and click "Submit experiment"
+11. Wait experiment state Running in dashboard list. After click on experiment details and verify that you have Success in the deployment result
+12. First, we have to initialize RPL on all nodes for interface 7 (can be obtained by looking at the output of ifconfig). We use on the SSH frontend the serial aggregator to talk to all nodes:
 ```
 <login>@<site>:~$ serial_aggregator
 1538581103.276934;Aggregator started
@@ -96,11 +96,11 @@ rpl init 7
 1538581116.525326;m3-178;successfully initialized RPL on interface 7
 1538581116.527159;m3-258;successfully initialized RPL on interface 7
 ```
-8. With RPL two types of nodes are available: **simple router** nodes and **root nodes** (the root of the DAG).In our example we will choose m3-6 as the root of the DAG. Before doing so however, we need to configure a global IPv6 address form3-6 that can be used as the RPL DODAG-ID.
+13. With RPL two types of nodes are available: **simple router** nodes and **root nodes** (the root of the DAG).In our example we will choose m3-6 as the root of the DAG. Before doing so however, we need to configure a global IPv6 address form3-6 that can be used as the RPL DODAG-ID.
 ```
 m3-96;ifconfig 7 add 2001:db8::1
 1538581289.470753;m3-96;> ifconfig 7 add 2001:db8::1
 1538581289.471001;m3-96;success: added 2001:db8::1/64 to interface 7
 ```
-9. To show the dodag at node 7 and 8:
+14. To show the dodag at node 7 and 8:
 
