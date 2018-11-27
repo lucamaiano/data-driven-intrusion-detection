@@ -104,3 +104,19 @@ m3-96;ifconfig 7 add 2001:db8::1
 ```
 14. To show the dodag at node 7 and 8:
 
+15. Now we can start to collect data. We will send a ping to every single node of the DODAG. First, clone this responsory to automatically ping all the other nodes:
+```
+<login>@<site>:~$ cd
+<login>@<site>:~$ git clone https://github.com/lucamaiano/data-driven-intrusion-detection
+<login>@<site>:~$ cd data-driven-intrusion-detection/data
+<login>@<site>:~$ python3 log.py
+```
+The log.py script will ask you to prompt the list of M3 nodes that you want to ping:
+```
+<login>@<site>:~$ Enter a node or a list of nodes to ping: <m3-<id1>,m3-<id2>,...,m3-<idN>
+ ```
+This command will generate a new file called ping.log. Now you can read the file with the results of the experiment.
+```
+<login>@<site>:~$ less ping.log
+```
+
