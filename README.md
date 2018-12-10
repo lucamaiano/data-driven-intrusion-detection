@@ -77,7 +77,7 @@ wait experiment state Running in the Schedule dashboard section
 6. Now we connect to the RIOT shell on the A8-M3 nodes using miniterm.py:
 ```
 root@node-a8-<id>:~$ ssh root@node-a8-<id>
-root@node-a8-<id>:~$ --echo /dev/ttyA8_M3 500000 | tee output<id>.log
+root@node-a8-<id>:~$ miniterm.py --echo /dev/ttyA8_M3 500000 | tee output.log
 ```
 7. We start the RPL protocol on the root node:
 ```
