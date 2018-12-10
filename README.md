@@ -64,19 +64,16 @@ my_computer$ ssh <login>@grenoble.iot-lab.info
 <login>@grenoble:~/riot/RIOT$ make BOARD=iotlab-a8-m3 clean all
 <login>@grenoble:~/riot/RIOT$ cp bin/iotlab-a8-m3/gnrc_networking.elf ~/riot
 ```
-4. Retrieve the generated binary firmware file on your computer:
-```
-my_computer$ scp <login>@grenoble.iot-lab.info:riot/gnrc_networking.elf gnrc_networking.elf
-```
-5. Launch a new experiment on  IoT-LAB testbed
+4. Launch a new experiment on  IoT-LAB testbed
 ![New experiment](images/experiment-submit-a8-1024x501.png)
 
 wait experiment state Running in the Schedule dashboard section
 ![Running experiment](images/experiment-details-a8-1024x376.png)
 
-6. Now we connect to the RIOT shell on the A8-M3 nodes using miniterm.py:
+5. Now we connect to the RIOT shell on the A8-M3 nodes using miniterm.py:
 ```
 root@node-a8-<id>:~$ ssh root@node-a8-<id>
+root@node-a8-<id>:~$ flash_a8_m3 riot/gnrc_networking.elf
 root@node-a8-<id>:~$ miniterm.py --echo /dev/ttyA8_M3 500000 | tee output.log
 ```
 7. We start the RPL protocol on the root node:
