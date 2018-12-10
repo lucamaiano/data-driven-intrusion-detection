@@ -40,15 +40,17 @@ The image below shows an example of a *single black hole attack*. Node 1 stands 
 In a bit more complex scenario, a couple of malicious nodes collaborate together in order to beguile the normal into their fabricated routing information, hiding from the existing detection scheme.
 
 
-## The Experiment
+## Collecting Data
 
-In order to symulate an intrusion, the first step to perform is collecting data from a network. In this experiment we set up a public IPv6/6LoWPAN network with RIOT on 7 A8-M3 nodes on Iot-Lab. If you don't have an account on the Iot-Lab website, please register.
-1. Connect to a site host:
+In order to symulate an intrusion, the first step to perform is collecting data from a network. In this experiment we set up a public IPv6/6LoWPAN network in Grenoble with RIOT OS on 7 A8-M3 nodes on Iot-Lab. If you don't have an account on the Iot-Lab website, please register. The following is the topology of Grenoble.
+
+![Topology of Grenoble](images/topology-of-the-IoT-Lab-M3-nodes-at-the-Grenoble-site.png)
+
+1. Connect to the site host:
 ```
 my_computer$ ssh <login>@grenoble.iot-lab.info
 ```
-2. Connect to your testbed and run a new experiment selecting 7 A8-M3 nodes.
-3. Get the code of the 2017.07 release of RIOT from GitHub:
+2. Get the code of the 2017.07 release of RIOT from GitHub:
 ```
 <login>@grenoble:~$ mkdir -p ~/riot
 <login>@grenoble:~$ cd ~/riot
@@ -56,19 +58,28 @@ my_computer$ ssh <login>@grenoble.iot-lab.info
 <login>@grenoble:~/riot$ cd RIOT
 <login>@grenoble:~/riot/RIOT$ git checkout 2017.07-branch
 ```
-4. Connect to each of the A8-M3 nodes with the following command:
+3. Connect to each of the A8-M3 nodes with the following command:
 ```
 <login>@grenoble:~/riot/RIOT$ cd examples/gnrc_networking
 <login>@grenoble:~/riot/RIOT$ make BOARD=iotlab-a8-m3 clean all
 <login>@grenoble:~/riot/RIOT$ cp bin/iotlab-a8-m3/gnrc_networking.elf ~/riot
 ```
-5. Now we flash the firmware and connect to the RIOT shell on the M3 using miniterm.py:
+4. Retrieve the generated binary firmware file on your computer:
+```
+my_computer$ scp <login>@grenoble.iot-lab.info:riot/gnrc_networking.elf gnrc_networking.elf
+```
+5. Launch a new experiment on  IoT-LAB testbed
+![New experiment](images/experiment-submit-a8-1024x501.png)
+
+wait experiment state Running in the Schedule dashboard section
+![Running experiment](images/experiment-details-a8-1024x376.png)
+
+6. Now we connect to the RIOT shell on the A8-M3 nodes using miniterm.py:
 ```
 root@node-a8-<id>:~$ ssh root@node-a8-<id>
-root@node-a8-<id>:~$ flash_a8_m3 riot/gnrc_networking.elf
-root@node-a8-<id>:~$ miniterm.py -e /dev/ttyA8_M3 500000
+root@node-a8-<id>:~$ --echo /dev/ttyA8_M3 500000 | tee output<id>.log
 ```
-6. We start the RPL protocol on the root node:
+7. We start the RPL protocol on the root node:
 ```
 root@node-a8-<id>:~$ rpl init 7
 root@node-a8-<id>:~$ ifconfig 7 set power -17
@@ -76,31 +87,10 @@ root@node-a8-<id>:~$ ifconfig 7 add 2001:db8::1
 root@node-a8-<id>:~$ rpl root 1 2001:db8::1
 root@node-a8-<id>:~$ rpl
 ```
-7. For each other A8-M3 node we start rpl
+8. For each other A8-M3 node we start rpl
 ```
 root@node-a8-<id>:~$ rpl init 7
 root@node-a8-<id>:~$ ifconfig 7 set power -17
 root@node-a8-<id>:~$ rpl
 ```
-7. Duration: 60 minutes and starting “As soon as possible“
-8. Select nodes from list or map
-9. Choose nodes from Site = grenoble / M3 (at86rf231) / Not Mobile and click “Add to experiment”
-10. Add your binary firmware gnrc_networking.elf with nodes selected and click "Submit experiment"
-11. Wait experiment state Running in dashboard list. After click on experiment details and verify that you have Success in the deployment result
-
-15. Now we can start to collect data. We will send a ping to every single node of the DODAG. First, clone this responsory to automatically ping all the other nodes:
-```
-<login>@<site>:~$ cd
-<login>@<site>:~$ git clone https://github.com/lucamaiano/data-driven-intrusion-detection
-<login>@<site>:~$ cd data-driven-intrusion-detection/data
-<login>@<site>:~$ python3 log.py
-```
-The log.py script will ask you to prompt the list of M3 nodes that you want to ping:
-```
-<login>@<site>:~$ Enter a node or a list of nodes to ping: <m3-<id1>,m3-<id2>,...,m3-<idN>
- ```
-This command will generate a new file called ping.log. Now you can read the file with the results of the experiment.
-```
-<login>@<site>:~$ less ping.log
-```
-
+9. Now you can ping the nodes.
