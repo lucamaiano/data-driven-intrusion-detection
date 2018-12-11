@@ -52,17 +52,16 @@ my_computer$ ssh <login>@grenoble.iot-lab.info
 ```
 2. Get the code of the 2017.07 release of RIOT from GitHub:
 ```
-<login>@grenoble:~$ mkdir -p ~/riot
-<login>@grenoble:~$ cd ~/riot
-<login>@grenoble:~/riot$ git clone https://github.com/RIOT-OS/RIOT.git
-<login>@grenoble:~/riot$ cd RIOT
-<login>@grenoble:~/riot/RIOT$ git checkout 2017.07-branch
+<login>@grenoble:~$ cd ~/A8
+<login>@grenoble:~/A8$ git clone https://github.com/RIOT-OS/RIOT.git
+<login>@grenoble:~/A8$ cd RIOT
+<login>@grenoble:~/A8/RIOT$ git checkout 2017.07-branch
 ```
 3. Connect to each of the A8-M3 nodes with the following command:
 ```
-<login>@grenoble:~/riot/RIOT$ cd examples/gnrc_networking
-<login>@grenoble:~/riot/RIOT$ make BOARD=iotlab-a8-m3 clean all
-<login>@grenoble:~/riot/RIOT$ cp bin/iotlab-a8-m3/gnrc_networking.elf ~/riot
+<login>@grenoble:~/A8/RIOT$ cd examples/gnrc_networking
+<login>@grenoble:~/A8/RIOT$ make BOARD=iotlab-a8-m3 clean all
+<login>@grenoble:~/A8/RIOT$ cp bin/iotlab-a8-m3/gnrc_networking.elf ~/riot
 ```
 4. Launch a new experiment on  IoT-LAB testbed
 ![New experiment](images/experiment-submit-a8-1024x501.png)
@@ -73,7 +72,7 @@ wait experiment state Running in the Schedule dashboard section
 5. Now we connect to the RIOT shell on the A8-M3 nodes using miniterm.py:
 ```
 root@node-a8-<id>:~$ ssh root@node-a8-<id>
-root@node-a8-<id>:~$ flash_a8_m3 riot/gnrc_networking.elf
+root@node-a8-<id>:~$ flash_a8_m3 A8/gnrc_networking.elf
 root@node-a8-<id>:~$ miniterm.py --echo /dev/ttyA8_M3 500000 | tee output.log
 ```
 7. We start the RPL protocol on the root node:
