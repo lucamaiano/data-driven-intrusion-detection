@@ -89,7 +89,7 @@ root@node-a8-<id>:~$ ifconfig 7 add 2001:db8::1
 root@node-a8-<id>:~$ rpl root 1 2001:db8::1
 root@node-a8-<id>:~$ rpl
 ```
-6. For each other A8-M3 node we start RPL as follows. Unfortunately, you should execute this command manually because the ![serial_aggregator command](https://www.iot-lab.info/tutorials/serial-aggregator/) does not seem to work at the moment.
+6. For each other A8-M3 node we start RPL as follows. Unfortunately, you should execute this command manually because the [serial_aggregator command](https://www.iot-lab.info/tutorials/serial-aggregator/) does not seem to work at the moment.
 ```
 root@node-a8-<id>:~$ ssh root@node-a8-<id>
 root@node-a8-<id>:~$ flash_a8_m3 A8/gnrc_networking.elf
