@@ -5,6 +5,8 @@
 1. [IPv6LoWPAN, COAP protocol and RPL](#ipv6lowpan-coap-protocol-and-rpl)
 2. [Black Hole attack](#black-hole-attack)
 3. [The Experiment](#the-experiment)
+4. [Collecting Data](#collecting-data)
+5. [Exploratory Analysis](#exploratory-analysis)
 
 ## IPv6LoWPAN, COAP protocol and RPL
 As the name suggest, **IPv6LowPAN** (*IPv6* over *Lo*w-Power *W*ireless *P*ersonal *A*rea *N*etwork) is a networking technology or adaptation layer that allows IPv6 packets to be carried efficiently within small link layer frames defined by IEEE 802.15.4. The following image shows an example of IPv6LoWPAN network that is connected to the IPv6 network using an edge router. 
@@ -39,10 +41,12 @@ The image below shows an example of a *single black hole attack*. Node 1 stands 
 
 In a bit more complex scenario, a couple of malicious nodes collaborate together in order to beguile the normal into their fabricated routing information, hiding from the existing detection scheme.
 
+# The Experiment
+The aim of this experiment is to automatically recognize intrusions in a network. We will set up a real testbed using IOT-Lab, constructing a network of seven A8-M3 nodes using RPL to route informations. This first phase will help us collecting data from a real environment that can be used to train a model. Given an RPL DODAG, we ping each node of the network from the root. From the analysis of this kind of data, we do expect to retrieve enough informations to learn the usual behavior of the network.
 
 ## Collecting Data
 
-In order to symulate an intrusion, the first step to perform is collecting data from a network. In this experiment we set up a public IPv6/6LoWPAN network in Grenoble with RIOT OS on 7 A8-M3 nodes on Iot-Lab. If you don't have an account on the Iot-Lab website, please register. The following is the topology of Grenoble.
+In order to symulate an intrusion, the first step to perform is collecting data from a network. In this experiment we set up a public IPv6/6LoWPAN network in Grenoble with RIOT OS running on 7 A8-M3 nodes on IOT-Lab. If you don't have an account on the Iot-Lab website, please register. The following is the topology of the site in Grenoble.
 
 ![Topology of Grenoble](images/topology-of-the-IoT-Lab-M3-nodes-at-the-Grenoble-site.png)
 
@@ -57,25 +61,27 @@ my_computer$ ssh <login>@grenoble.iot-lab.info
 <login>@grenoble:~/A8$ cd RIOT
 <login>@grenoble:~/A8/RIOT$ git checkout 2017.07-branch
 ```
-3. Connect to each of the A8-M3 nodes with the following command:
+3. Build the required firmware:
 ```
 <login>@grenoble:~/A8/RIOT$ cd examples/gnrc_networking
 <login>@grenoble:~/A8/RIOT$ make BOARD=iotlab-a8-m3 clean all
 <login>@grenoble:~/A8/RIOT$ cp bin/iotlab-a8-m3/gnrc_networking.elf ~/riot
 ```
-4. Launch a new experiment on  IoT-LAB testbed
+4. Launch a new experiment on  IoT-LAB testbed. You should select seven A8-M3 nodes in the Grenoble site.
+
 ![New experiment](images/experiment-submit-a8-1024x501.png)
 
-wait experiment state Running in the Schedule dashboard section
+Wait the experiment state "Running" in the Schedule dashboard section:
+
 ![Running experiment](images/experiment-details-a8-1024x376.png)
 
-5. Now we connect to the RIOT shell on the A8-M3 nodes using miniterm.py:
+5. Now we connect to the RIOT shell of the root. You can choose the first node in your experiment. The last command will also generate a log file.
 ```
 root@node-a8-<id>:~$ ssh root@node-a8-<id>
 root@node-a8-<id>:~$ flash_a8_m3 A8/gnrc_networking.elf
 root@node-a8-<id>:~$ miniterm.py --echo /dev/ttyA8_M3 500000 | tee output.log
 ```
-7. We start the RPL protocol on the root node:
+Now we start the RPL protocol on the root node:
 ```
 root@node-a8-<id>:~$ rpl init 7
 root@node-a8-<id>:~$ ifconfig 7 set power -17
@@ -83,10 +89,26 @@ root@node-a8-<id>:~$ ifconfig 7 add 2001:db8::1
 root@node-a8-<id>:~$ rpl root 1 2001:db8::1
 root@node-a8-<id>:~$ rpl
 ```
-8. For each other A8-M3 node we start rpl
+6. For each other A8-M3 node we start RPL as follows. Unfortunately, you should execute this command manually because the ![serial_aggregator command](https://www.iot-lab.info/tutorials/serial-aggregator/) does not seem to work at the moment.
 ```
+root@node-a8-<id>:~$ ssh root@node-a8-<id>
+root@node-a8-<id>:~$ flash_a8_m3 A8/gnrc_networking.elf
+root@node-a8-<id>:~$ miniterm.py --echo /dev/ttyA8_M3 500000
 root@node-a8-<id>:~$ rpl init 7
 root@node-a8-<id>:~$ ifconfig 7 set power -17
 root@node-a8-<id>:~$ rpl
 ```
-9. Now you can ping the nodes.
+7. Now you can ping the nodes. Select terminal window that you used to connect to the root node. Ping each other node:
+```
+root@node-a8-<id>:~$ ping6 100 <node-IP>
+```
+where `<node-IP>` is the global ip of the node you want to ping. You can access such ip using the command on the terminal window connecting the destination node:
+  
+```
+root@node-a8-<id>:~$ ifconfig
+``` 
+8. When you have finished, you can end the RIOT shell pressing `CTRL + ]`.  Download the log file from the root node.
+
+## Exploratory Analysis
+
+Now we can start a first analysis of our data. The first results are available
