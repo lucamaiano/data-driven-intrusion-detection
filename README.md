@@ -111,4 +111,5 @@ root@node-a8-<id>:~$ ifconfig
 
 ## Exploratory Analysis
 
-Now we can start a first analysis of our data. The first results are available
+Now we can start a first analysis of our data. The first results are available in a [Jupyter Notebook](https://github.com/lucamaiano/data-driven-intrusion-detection/blob/master/Exploratory%20Analysis.ipynb). 
+Notice that this is a very short first analysis!
