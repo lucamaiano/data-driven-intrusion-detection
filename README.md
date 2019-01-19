@@ -110,7 +110,7 @@ root@node-a8-<id>:~$ ifconfig
 ``` 
 8. When you have finished, you can end the RIOT shell pressing `CTRL + ]`.  Download the log file from the root node.
 
-The data has been collected sending 2000 ping from the root to each other nood of the newtwork. The data were collected in two different days, the first day we collected the first 1000 pings for each node, then we completed the data the day after.
+The data has been collected sending 2000 ping messages from the root to each other node of the newtwork. The data were collected in two different days, the first day we collected the first 1000 pings for each node and we completed the data collection the day after.
 
 ## Exploratory Analysis
 
