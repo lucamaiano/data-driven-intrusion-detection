@@ -44,11 +44,12 @@ In a bit more complex scenario, a couple of malicious nodes collaborate together
 # The Experiment
 The aim of this experiment is to automatically recognize intrusions in a network. We will set up a real testbed using IOT-Lab, constructing a network of seven A8-M3 nodes using RPL to route informations. This first phase will help us collecting data from a real environment that can be used to train a model. Given an RPL DODAG, we ping each node of the network from the root. From the analysis of this kind of data, we do expect to retrieve enough informations to learn the usual behavior of the network.
 
+
 ## Collecting Data
 
 In order to symulate an intrusion, the first step to perform is collecting data from a network. In this experiment we set up a public IPv6/6LoWPAN network in Grenoble with RIOT OS running on 7 A8-M3 nodes on IOT-Lab. If you don't have an account on the Iot-Lab website, please register. The following is the topology of the site in Grenoble.
 
-![Topology of Grenoble](images/topology-of-the-IoT-Lab-M3-nodes-at-the-Grenoble-site.png)
+![Topology of Grenoble](images/topology-of-the-IoT-Lab-M3-nodes-at-the-Grenoble-site.png) ![Topology of Grenoble 2](images/planMontbonnot.png)
 
 1. Connect to the site host:
 ```
@@ -89,7 +90,7 @@ root@node-a8-<id>:~$ ifconfig 7 add 2001:db8::1
 root@node-a8-<id>:~$ rpl root 1 2001:db8::1
 root@node-a8-<id>:~$ rpl
 ```
-6. For each other A8-M3 node we start RPL as follows. Unfortunately, you should execute this command manually because the [serial_aggregator command](https://www.iot-lab.info/tutorials/serial-aggregator/) does not seem to work at the moment.
+6. For each other A8-M3 node we start RPL as follows. Unfortunately, you should execute this command manually because the [serial_aggregator command](https://www.iot-lab.info/tutorials/serial-aggregator/) does not seem to work with A8 nodes.
 ```
 root@node-a8-<id>:~$ ssh root@node-a8-<id>
 root@node-a8-<id>:~$ flash_a8_m3 A8/gnrc_networking.elf
@@ -100,7 +101,7 @@ root@node-a8-<id>:~$ rpl
 ```
 7. Now you can ping the nodes. Select terminal window that you used to connect to the root node. Ping each other node:
 ```
-root@node-a8-<id>:~$ ping6 100 <node-IP>
+root@node-a8-<id>:~$ ping6 1000 <node-IP>
 ```
 where `<node-IP>` is the global ip of the node you want to ping. You can access such ip using the command on the terminal window connecting the destination node:
   
@@ -109,7 +110,13 @@ root@node-a8-<id>:~$ ifconfig
 ``` 
 8. When you have finished, you can end the RIOT shell pressing `CTRL + ]`.  Download the log file from the root node.
 
+The data has been collected sending 2000 ping from the root to each other nood of the newtwork. The data were collected in two different days, the first day we collected the first 1000 pings for each node, then we completed the data the day after.
+
 ## Exploratory Analysis
 
-Now we can start a first analysis of our data. The first results are available in a [Jupyter Notebook](https://github.com/lucamaiano/data-driven-intrusion-detection/blob/master/ExploratoryAnalysis.ipynb). 
+The experiment was submitted with the following topology. Node `A8-149` is the root of the DODAG, and has three children: `A8-156`, `A8-163` and `A8-173`. Node `A8-173` is also connected to nodes `A8-183` and `A8-193`. The last node `A8-204` has the highest distance (both physical and in the DODAG) from the root.
+
+![Experiment](images/rpl_dodag.png)
+
+Dotted lines indicate that if the node loses connection with the parent, it initiates a communication with another parent node. Notice that a lot of times nodes randomly disconnect and reconnect after a while. Now we can start a first analysis of our data. The first results are available in a [Jupyter Notebook](https://github.com/lucamaiano/data-driven-intrusion-detection/blob/master/ExploratoryAnalysis.ipynb). 
 Notice that this is a very short first analysis!
