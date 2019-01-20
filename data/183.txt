@@ -1,0 +1,2067 @@
+ping6 1000 2001:db8::1711:6b10:65f7:851ap
+ing6 1000 2001:db8::1711:6b10:65f7:851a
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=2 hop limit=63 time = 33.983 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=3 hop limit=63 time = 43.245 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=4 hop limit=63 time = 55.357 ms
+ping timeout
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=7 hop limit=63 time = 31.147 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=8 hop limit=63 time = 21.627 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=9 hop limit=63 time = 38.739 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=11 hop limit=63 time = 24.833 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=12 hop limit=63 time = 43.125 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=13 hop limit=63 time = 28.938 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=14 hop limit=63 time = 31.033 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=15 hop limit=63 time = 23.573 ms
+ping timeout
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=18 hop limit=63 time = 45.054 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=20 hop limit=63 time = 39.231 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=21 hop limit=63 time = 51.101 ms
+ping timeout
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=24 hop limit=63 time = 36.111 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=25 hop limit=63 time = 28.154 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=27 hop limit=63 time = 41.331 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=28 hop limit=63 time = 50.913 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=29 hop limit=63 time = 35.935 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=30 hop limit=63 time = 37.759 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=31 hop limit=63 time = 46.872 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=33 hop limit=63 time = 36.531 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=35 hop limit=63 time = 36.185 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=36 hop limit=63 time = 47.853 ms
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=43 hop limit=63 time = 41.928 ms
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=48 hop limit=63 time = 22.587 ms
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=54 hop limit=63 time = 28.970 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=54 hop limit=63 time = 0.620 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=56 hop limit=63 time = 26.998 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=57 hop limit=63 time = 51.294 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=59 hop limit=63 time = 55.583 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=61 hop limit=63 time = 22.335 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=62 hop limit=63 time = 35.556 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=63 hop limit=63 time = 23.234 ms
+ping timeout
+ping timeout
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=67 hop limit=63 time = 23.866 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=69 hop limit=63 time = 34.014 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=70 hop limit=63 time = 36.255 ms
+ping timeout
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=73 hop limit=63 time = 34.090 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=75 hop limit=63 time = 37.161 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=75 hop limit=63 time = 0.622 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=77 hop limit=63 time = 38.132 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=78 hop limit=63 time = 42.228 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=79 hop limit=63 time = 40.899 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=81 hop limit=63 time = 35.583 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=82 hop limit=63 time = 34.655 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=83 hop limit=63 time = 27.306 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=84 hop limit=63 time = 29.257 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=85 hop limit=63 time = 53.873 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=86 hop limit=63 time = 51.145 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=88 hop limit=63 time = 29.897 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=89 hop limit=63 time = 53.203 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=90 hop limit=63 time = 35.244 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=91 hop limit=63 time = 26.038 ms
+ping timeout
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=94 hop limit=63 time = 24.639 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=95 hop limit=63 time = 44.104 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=97 hop limit=63 time = 59.537 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=98 hop limit=63 time = 16.903 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=99 hop limit=63 time = 55.576 ms
+ping timeout
+ping timeout
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=103 hop limit=63 time = 37.060 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=104 hop limit=63 time = 42.856 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=106 hop limit=63 time = 72.160 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=107 hop limit=63 time = 41.876 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=108 hop limit=63 time = 45.560 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=109 hop limit=63 time = 30.186 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=110 hop limit=63 time = 24.175 ms
+ping timeout
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=113 hop limit=63 time = 32.278 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=114 hop limit=63 time = 46.632 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=115 hop limit=63 time = 34.944 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=116 hop limit=63 time = 24.032 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=118 hop limit=63 time = 39.236 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=120 hop limit=63 time = 23.862 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=121 hop limit=63 time = 36.129 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=122 hop limit=63 time = 31.486 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=123 hop limit=63 time = 51.044 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=125 hop limit=63 time = 44.270 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=126 hop limit=63 time = 37.753 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=128 hop limit=63 time = 31.341 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=129 hop limit=63 time = 40.307 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=130 hop limit=63 time = 40.420 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=132 hop limit=63 time = 37.467 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=133 hop limit=63 time = 54.892 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=135 hop limit=63 time = 37.779 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=137 hop limit=63 time = 29.514 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=139 hop limit=63 time = 49.187 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=140 hop limit=63 time = 34.938 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=141 hop limit=63 time = 42.152 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=143 hop limit=63 time = 24.860 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=143 hop limit=63 time = 0.619 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=144 hop limit=63 time = 0.620 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=145 hop limit=63 time = 0.623 ms
+dropping additional response packet (probably caused by duplicates)
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=146 hop limit=63 time = 0.621 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=149 hop limit=63 time = 19.720 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=150 hop limit=63 time = 20.667 ms
+ping timeout
+ping timeout
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=154 hop limit=63 time = 41.806 ms
+ping timeout
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=157 hop limit=63 time = 29.828 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=158 hop limit=63 time = 45.032 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=159 hop limit=63 time = 19.136 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=160 hop limit=63 time = 31.139 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=162 hop limit=63 time = 59.623 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=163 hop limit=63 time = 41.902 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=165 hop limit=63 time = 47.458 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=167 hop limit=63 time = 49.468 ms
+ping timeout
+ping timeout
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=171 hop limit=63 time = 29.936 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=172 hop limit=63 time = 15.948 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=173 hop limit=63 time = 45.720 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=174 hop limit=63 time = 32.773 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=176 hop limit=63 time = 44.092 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=177 hop limit=63 time = 28.900 ms
+ping timeout
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=180 hop limit=63 time = 34.276 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=181 hop limit=63 time = 31.775 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=183 hop limit=63 time = 34.895 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=184 hop limit=63 time = 48.386 ms
+ping timeout
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=187 hop limit=63 time = 33.845 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=188 hop limit=63 time = 30.249 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=189 hop limit=63 time = 30.857 ms
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=194 hop limit=63 time = 34.334 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=195 hop limit=63 time = 37.572 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=196 hop limit=63 time = 31.817 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=197 hop limit=63 time = 39.027 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=199 hop limit=63 time = 29.802 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=199 hop limit=63 time = 0.619 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=200 hop limit=63 time = 0.620 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=201 hop limit=63 time = 0.619 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=202 hop limit=63 time = 0.623 ms
+dropping additional response packet (probably caused by duplicates)
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=203 hop limit=63 time = 0.619 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=204 hop limit=63 time = 0.620 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=205 hop limit=63 time = 0.619 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=206 hop limit=63 time = 0.620 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=208 hop limit=63 time = 18.496 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=208 hop limit=63 time = 0.620 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=209 hop limit=63 time = 0.619 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=210 hop limit=63 time = 0.620 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=212 hop limit=63 time = 38.772 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=214 hop limit=63 time = 36.542 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=215 hop limit=63 time = 48.365 ms
+ping timeout
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=218 hop limit=63 time = 39.624 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=219 hop limit=63 time = 41.268 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=220 hop limit=63 time = 35.689 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=221 hop limit=63 time = 25.174 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=223 hop limit=63 time = 53.883 ms
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=229 hop limit=63 time = 33.406 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=230 hop limit=63 time = 37.748 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=232 hop limit=63 time = 32.383 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=233 hop limit=63 time = 41.187 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=234 hop limit=63 time = 45.767 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=235 hop limit=63 time = 37.171 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=237 hop limit=63 time = 35.429 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=239 hop limit=63 time = 34.235 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=240 hop limit=63 time = 30.160 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=240 hop limit=63 time = 0.620 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=241 hop limit=63 time = 0.619 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=242 hop limit=63 time = 0.623 ms
+dropping additional response packet (probably caused by duplicates)
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=244 hop limit=63 time = 26.736 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=245 hop limit=63 time = 33.977 ms
+ping timeout
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=248 hop limit=63 time = 44.142 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=249 hop limit=63 time = 18.816 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=250 hop limit=63 time = 28.010 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=251 hop limit=63 time = 18.177 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=253 hop limit=63 time = 29.589 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=255 hop limit=63 time = 22.932 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=256 hop limit=63 time = 34.798 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=257 hop limit=63 time = 21.307 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=258 hop limit=63 time = 30.746 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=260 hop limit=63 time = 21.653 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=261 hop limit=63 time = 43.465 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=262 hop limit=63 time = 29.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=263 hop limit=63 time = 46.308 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=264 hop limit=63 time = 28.586 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=265 hop limit=63 time = 42.441 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=266 hop limit=63 time = 29.929 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=267 hop limit=63 time = 27.690 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=268 hop limit=63 time = 33.406 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=270 hop limit=63 time = 21.659 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=271 hop limit=63 time = 18.815 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=273 hop limit=63 time = 23.578 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=274 hop limit=63 time = 32.702 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=276 hop limit=63 time = 46.344 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=277 hop limit=63 time = 33.963 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=278 hop limit=63 time = 32.722 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=279 hop limit=63 time = 38.664 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=280 hop limit=63 time = 42.830 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=281 hop limit=63 time = 28.059 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=282 hop limit=63 time = 20.346 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=283 hop limit=63 time = 34.923 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=283 hop limit=63 time = 0.619 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=284 hop limit=63 time = 0.619 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=285 hop limit=63 time = 0.620 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=286 hop limit=63 time = 0.619 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=287 hop limit=63 time = 0.619 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=288 hop limit=63 time = 0.622 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=290 hop limit=63 time = 25.755 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=291 hop limit=63 time = 35.770 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=292 hop limit=63 time = 48.291 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=293 hop limit=63 time = 28.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=294 hop limit=63 time = 36.910 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=294 hop limit=63 time = 0.620 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=295 hop limit=63 time = 0.619 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=296 hop limit=63 time = 0.620 ms
+ping timeout
+ping timeout
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=301 hop limit=63 time = 28.789 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=302 hop limit=63 time = 20.513 ms
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=311 hop limit=63 time = 23.881 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=311 hop limit=63 time = 0.620 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=312 hop limit=63 time = 0.623 ms
+dropping additional response packet (probably caused by duplicates)
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=314 hop limit=63 time = 49.753 ms
+ping timeout
+ping timeout
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=318 hop limit=63 time = 37.875 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=318 hop limit=63 time = 0.620 ms
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=328 hop limit=63 time = 24.859 ms
+ping timeout
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=331 hop limit=63 time = 33.156 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=332 hop limit=63 time = 32.992 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=333 hop limit=63 time = 38.990 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=334 hop limit=63 time = 33.407 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=336 hop limit=63 time = 36.222 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=337 hop limit=63 time = 31.210 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=339 hop limit=63 time = 30.358 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=340 hop limit=63 time = 24.795 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=341 hop limit=63 time = 50.714 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=343 hop limit=63 time = 30.500 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=345 hop limit=63 time = 20.077 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=347 hop limit=63 time = 27.351 ms
+ping timeout
+ping timeout
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=351 hop limit=63 time = 25.279 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=351 hop limit=63 time = 0.623 ms
+dropping additional response packet (probably caused by duplicates)
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=352 hop limit=63 time = 0.620 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=353 hop limit=63 time = 0.619 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=354 hop limit=63 time = 0.620 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=356 hop limit=63 time = 53.331 ms
+ping timeout
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=359 hop limit=63 time = 50.455 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=360 hop limit=63 time = 41.678 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=361 hop limit=63 time = 38.520 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=362 hop limit=63 time = 25.807 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=363 hop limit=63 time = 26.127 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=364 hop limit=63 time = 39.380 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=365 hop limit=63 time = 39.085 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=366 hop limit=63 time = 20.993 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=368 hop limit=63 time = 38.264 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=370 hop limit=63 time = 40.623 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=372 hop limit=63 time = 43.534 ms
+ping timeout
+ping timeout
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=376 hop limit=63 time = 26.372 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=377 hop limit=63 time = 39.341 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=378 hop limit=63 time = 41.929 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=379 hop limit=63 time = 31.811 ms
+ping timeout
+ping timeout
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=383 hop limit=63 time = 33.989 ms
+ping timeout
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=386 hop limit=63 time = 33.720 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=388 hop limit=63 time = 33.059 ms
+ping timeout
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=391 hop limit=63 time = 27.055 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=392 hop limit=63 time = 42.217 ms
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=399 hop limit=63 time = 29.139 ms
+ping timeout
+ping timeout
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=403 hop limit=63 time = 54.641 ms
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=423 hop limit=63 time = 38.125 ms
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=428 hop limit=63 time = 32.735 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=430 hop limit=63 time = 35.853 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=431 hop limit=63 time = 40.184 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=433 hop limit=63 time = 29.363 ms
+ping timeout
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=436 hop limit=63 time = 23.855 ms
+ping timeout
+ping timeout
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=440 hop limit=63 time = 43.714 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=442 hop limit=63 time = 38.803 ms
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=461 hop limit=63 time = 64.578 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=462 hop limit=63 time = 44.003 ms
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=468 hop limit=63 time = 63.529 ms
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=475 hop limit=63 time = 22.574 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=476 hop limit=63 time = 67.125 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=476 hop limit=63 time = 0.619 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=477 hop limit=63 time = 0.620 ms
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=492 hop limit=63 time = 29.579 ms
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=499 hop limit=63 time = 42.179 ms
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=510 hop limit=63 time = 29.579 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=510 hop limit=63 time = 0.620 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=512 hop limit=63 time = 41.870 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=514 hop limit=63 time = 47.650 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=515 hop limit=63 time = 47.696 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=517 hop limit=63 time = 26.666 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=518 hop limit=63 time = 38.158 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=519 hop limit=63 time = 22.267 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=521 hop limit=63 time = 33.901 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=522 hop limit=63 time = 40.434 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=523 hop limit=63 time = 31.416 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=524 hop limit=63 time = 39.722 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=525 hop limit=63 time = 44.283 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=526 hop limit=63 time = 38.695 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=527 hop limit=63 time = 46.896 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=528 hop limit=63 time = 38.118 ms
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=534 hop limit=63 time = 28.924 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=536 hop limit=63 time = 37.100 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=537 hop limit=63 time = 39.346 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=539 hop limit=63 time = 37.804 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=540 hop limit=63 time = 29.573 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=542 hop limit=63 time = 32.374 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=544 hop limit=63 time = 30.173 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=545 hop limit=63 time = 22.894 ms
+ping timeout
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=548 hop limit=63 time = 39.718 ms
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=556 hop limit=63 time = 44.732 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=558 hop limit=63 time = 23.566 ms
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=566 hop limit=63 time = 46.017 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=567 hop limit=63 time = 31.485 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=568 hop limit=63 time = 36.839 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=570 hop limit=63 time = 26.069 ms
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=583 hop limit=63 time = 36.079 ms
+ping timeout
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=586 hop limit=63 time = 30.496 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=588 hop limit=63 time = 34.591 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=588 hop limit=63 time = 0.620 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=589 hop limit=63 time = 0.619 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=590 hop limit=63 time = 0.620 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=591 hop limit=63 time = 0.619 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=593 hop limit=63 time = 28.875 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=595 hop limit=63 time = 26.057 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=596 hop limit=63 time = 41.262 ms
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=608 hop limit=63 time = 41.876 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=609 hop limit=63 time = 36.543 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=610 hop limit=63 time = 36.355 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=611 hop limit=63 time = 29.897 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=612 hop limit=63 time = 36.927 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=612 hop limit=63 time = 0.619 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=613 hop limit=63 time = 0.620 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=615 hop limit=63 time = 28.306 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=615 hop limit=63 time = 0.620 ms
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=622 hop limit=63 time = 38.601 ms
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=639 hop limit=63 time = 41.864 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=640 hop limit=63 time = 28.970 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=640 hop limit=63 time = 0.621 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=641 hop limit=63 time = 0.622 ms
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=650 hop limit=63 time = 50.997 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=650 hop limit=63 time = 0.619 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=653 hop limit=63 time = 26.107 ms
+ping timeout
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=656 hop limit=63 time = 36.179 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=658 hop limit=63 time = 47.962 ms
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=674 hop limit=63 time = 29.546 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=676 hop limit=63 time = 29.433 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=676 hop limit=63 time = 0.619 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=677 hop limit=63 time = 0.620 ms
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=694 hop limit=63 time = 23.253 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=694 hop limit=63 time = 0.620 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=695 hop limit=63 time = 0.619 ms
+ping timeout
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=699 hop limit=63 time = 27.337 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=700 hop limit=63 time = 40.415 ms
+ping timeout
+ping timeout
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=704 hop limit=63 time = 32.064 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=704 hop limit=63 time = 0.619 ms
+ping timeout
+ping timeout
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=709 hop limit=63 time = 29.579 ms
+ping timeout
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=712 hop limit=63 time = 21.991 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=713 hop limit=63 time = 29.577 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=714 hop limit=63 time = 17.535 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=715 hop limit=63 time = 25.776 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=716 hop limit=63 time = 41.151 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=716 hop limit=63 time = 0.620 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=718 hop limit=63 time = 24.709 ms
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=724 hop limit=63 time = 33.055 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=725 hop limit=63 time = 32.062 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=726 hop limit=63 time = 48.540 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=728 hop limit=63 time = 27.344 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=729 hop limit=63 time = 24.500 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=730 hop limit=63 time = 31.177 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=731 hop limit=63 time = 30.537 ms
+ping timeout
+ping timeout
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=735 hop limit=63 time = 34.198 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=737 hop limit=63 time = 44.488 ms
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=746 hop limit=63 time = 27.350 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=746 hop limit=63 time = 0.619 ms
+ping timeout
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=750 hop limit=63 time = 53.170 ms
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=761 hop limit=63 time = 33.662 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=762 hop limit=63 time = 32.388 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=763 hop limit=63 time = 28.329 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=764 hop limit=63 time = 22.939 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=764 hop limit=63 time = 0.619 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=766 hop limit=63 time = 36.254 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=768 hop limit=63 time = 25.142 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=768 hop limit=63 time = 0.620 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=769 hop limit=63 time = 0.623 ms
+dropping additional response packet (probably caused by duplicates)
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=770 hop limit=63 time = 0.620 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=771 hop limit=63 time = 0.619 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=772 hop limit=63 time = 0.620 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=775 hop limit=63 time = 27.595 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=775 hop limit=63 time = 0.620 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=776 hop limit=63 time = 0.619 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=778 hop limit=63 time = 31.115 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=780 hop limit=63 time = 26.986 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=781 hop limit=63 time = 34.621 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=782 hop limit=63 time = 38.616 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=783 hop limit=63 time = 28.505 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=784 hop limit=63 time = 23.222 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=786 hop limit=63 time = 26.101 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=787 hop limit=63 time = 35.720 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=788 hop limit=63 time = 33.662 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=789 hop limit=63 time = 32.170 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=791 hop limit=63 time = 26.090 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=792 hop limit=63 time = 34.250 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=793 hop limit=63 time = 40.899 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=794 hop limit=63 time = 34.622 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=795 hop limit=63 time = 18.790 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=797 hop limit=63 time = 26.271 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=798 hop limit=63 time = 27.248 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=799 hop limit=63 time = 31.818 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=800 hop limit=63 time = 38.451 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=801 hop limit=63 time = 32.005 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=802 hop limit=63 time = 39.279 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=803 hop limit=63 time = 30.569 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=804 hop limit=63 time = 27.337 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=806 hop limit=63 time = 45.064 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=807 hop limit=63 time = 40.378 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=808 hop limit=63 time = 53.028 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=809 hop limit=63 time = 34.623 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=810 hop limit=63 time = 31.151 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=810 hop limit=63 time = 0.619 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=811 hop limit=63 time = 0.620 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=814 hop limit=63 time = 26.698 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=815 hop limit=63 time = 40.334 ms
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=824 hop limit=63 time = 40.158 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=825 hop limit=63 time = 43.032 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=827 hop limit=63 time = 47.906 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=828 hop limit=63 time = 35.653 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=829 hop limit=63 time = 27.227 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=829 hop limit=63 time = 0.623 ms
+ping timeout
+ping timeout
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=834 hop limit=63 time = 33.612 ms
+ping timeout
+ping timeout
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=838 hop limit=63 time = 35.206 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=840 hop limit=63 time = 27.702 ms
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=846 hop limit=63 time = 40.955 ms
+ping timeout
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=849 hop limit=63 time = 30.582 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=850 hop limit=63 time = 27.703 ms
+ping timeout
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=853 hop limit=63 time = 37.938 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=854 hop limit=63 time = 28.028 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=855 hop limit=63 time = 24.526 ms
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=877 hop limit=63 time = 38.208 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=878 hop limit=63 time = 21.903 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=879 hop limit=63 time = 44.041 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=879 hop limit=63 time = 0.620 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=880 hop limit=63 time = 0.619 ms
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=888 hop limit=63 time = 28.625 ms
+ping timeout
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=891 hop limit=63 time = 39.397 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=893 hop limit=63 time = 33.387 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=894 hop limit=63 time = 32.458 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=895 hop limit=63 time = 23.867 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=896 hop limit=63 time = 28.598 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=897 hop limit=63 time = 34.535 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=898 hop limit=63 time = 45.002 ms
+ping timeout
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=901 hop limit=63 time = 19.463 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=83 seq=902 hop limit=63 time = 29.264 ms
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+ping timeout
+--- 2001:db8::1711:6b10:65f7:851a ping statistics ---
+1000 packets transmitted, 432 received, 57% packet loss, time 1581.06186008 s
+rtt min/avg/max = 0.619/12.763/72.160 ms
+> 
+> 
+ping6 1000 2001:db8::1711:6b10:65f7:851aping6 1000 2001:db8::1711:6b10:65f7:851a
+
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=1 hop limit=63 time = 30.809 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=2 hop limit=63 time = 27.013 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=3 hop limit=63 time = 18.454 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=4 hop limit=63 time = 26.975 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=5 hop limit=63 time = 36.527 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=6 hop limit=63 time = 28.404 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=7 hop limit=63 time = 30.841 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=8 hop limit=63 time = 40.291 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=9 hop limit=63 time = 26.335 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=10 hop limit=63 time = 26.725 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=11 hop limit=63 time = 20.347 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=12 hop limit=63 time = 24.171 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=13 hop limit=63 time = 39.928 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=14 hop limit=63 time = 40.388 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=15 hop limit=63 time = 40.612 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=16 hop limit=63 time = 29.055 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=17 hop limit=63 time = 31.161 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=18 hop limit=63 time = 29.417 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=19 hop limit=63 time = 22.133 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=20 hop limit=63 time = 25.765 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=21 hop limit=63 time = 24.196 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=22 hop limit=63 time = 22.319 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=22 hop limit=63 time = 0.613 ms
+dropping additional response packet (probably caused by duplicates)
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=23 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=24 hop limit=63 time = 0.613 ms
+dropping additional response packet (probably caused by duplicates)
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=25 hop limit=63 time = 2.018 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=26 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=27 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=28 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=29 hop limit=63 time = 0.613 ms
+dropping additional response packet (probably caused by duplicates)
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=30 hop limit=63 time = 0.613 ms
+dropping additional response packet (probably caused by duplicates)
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=31 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=32 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=33 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=34 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=35 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=36 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=37 hop limit=63 time = 0.613 ms
+dropping additional response packet (probably caused by duplicates)
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=38 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=39 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=40 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=42 hop limit=63 time = 17.218 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=44 hop limit=63 time = 21.643 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=45 hop limit=63 time = 36.213 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=46 hop limit=63 time = 27.999 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=47 hop limit=63 time = 27.084 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=47 hop limit=63 time = 0.613 ms
+dropping additional response packet (probably caused by duplicates)
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=48 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=49 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=50 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=51 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=52 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=53 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=54 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=55 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=56 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=57 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=58 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=59 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=60 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=61 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=62 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=63 hop limit=63 time = 0.615 ms
+dropping additional response packet (probably caused by duplicates)
+dropping additional response packet (probably caused by duplicates)
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=64 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=65 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=67 hop limit=63 time = 32.943 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=68 hop limit=63 time = 38.122 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=69 hop limit=63 time = 37.267 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=70 hop limit=63 time = 21.296 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=71 hop limit=63 time = 29.882 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=72 hop limit=63 time = 31.909 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=73 hop limit=63 time = 26.975 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=74 hop limit=63 time = 34.820 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=75 hop limit=63 time = 34.010 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=76 hop limit=63 time = 24.523 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=77 hop limit=63 time = 24.176 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=78 hop limit=63 time = 27.999 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=79 hop limit=63 time = 27.680 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=80 hop limit=63 time = 20.539 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=81 hop limit=63 time = 25.142 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=82 hop limit=63 time = 25.451 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=83 hop limit=63 time = 30.170 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=84 hop limit=63 time = 30.160 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=85 hop limit=63 time = 27.979 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=86 hop limit=63 time = 28.959 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=87 hop limit=63 time = 23.562 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=88 hop limit=63 time = 17.852 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=89 hop limit=63 time = 25.708 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=90 hop limit=63 time = 22.571 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=90 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=91 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=92 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=93 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=94 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=96 hop limit=63 time = 35.924 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=97 hop limit=63 time = 31.099 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=98 hop limit=63 time = 31.738 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=99 hop limit=63 time = 29.855 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=100 hop limit=63 time = 23.232 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=101 hop limit=63 time = 24.171 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=102 hop limit=63 time = 36.100 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=103 hop limit=63 time = 27.359 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=104 hop limit=63 time = 30.154 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=105 hop limit=63 time = 21.949 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=106 hop limit=63 time = 24.623 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=107 hop limit=63 time = 25.162 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=108 hop limit=63 time = 29.887 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=109 hop limit=63 time = 38.977 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=111 hop limit=63 time = 34.996 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=112 hop limit=63 time = 24.699 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=112 hop limit=63 time = 0.613 ms
+dropping additional response packet (probably caused by duplicates)
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=113 hop limit=63 time = 0.613 ms
+dropping additional response packet (probably caused by duplicates)
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=114 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=115 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=116 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=117 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=118 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=119 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=120 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=121 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=122 hop limit=63 time = 0.613 ms
+dropping additional response packet (probably caused by duplicates)
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=123 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=124 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=125 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=126 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=127 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=128 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=129 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=130 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=131 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=132 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=133 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=134 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=135 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=136 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=137 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=138 hop limit=63 time = 0.615 ms
+dropping additional response packet (probably caused by duplicates)
+dropping additional response packet (probably caused by duplicates)
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=139 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=140 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=141 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=142 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=143 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=144 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=145 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=146 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=147 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=148 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=149 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=150 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=151 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=152 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=153 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=154 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=155 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=157 hop limit=63 time = 24.523 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=158 hop limit=63 time = 25.482 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=159 hop limit=63 time = 25.595 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=159 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=160 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=161 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=162 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=164 hop limit=63 time = 22.571 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=165 hop limit=63 time = 30.886 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=166 hop limit=63 time = 32.447 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=167 hop limit=63 time = 29.839 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=168 hop limit=63 time = 26.720 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=168 hop limit=63 time = 0.612 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=170 hop limit=63 time = 26.123 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=171 hop limit=63 time = 23.531 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=172 hop limit=63 time = 33.034 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=172 hop limit=63 time = 0.613 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=174 hop limit=63 time = 23.104 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=175 hop limit=63 time = 22.891 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=176 hop limit=63 time = 35.544 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=176 hop limit=63 time = 0.613 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=177 hop limit=63 time = 0.613 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=178 hop limit=63 time = 0.613 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=179 hop limit=63 time = 0.613 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=180 hop limit=63 time = 0.613 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=181 hop limit=63 time = 0.613 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=182 hop limit=63 time = 0.609 ms
+dropping additional response packet (probably caused by duplicates)
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=183 hop limit=63 time = 0.613 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=184 hop limit=63 time = 0.613 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=185 hop limit=63 time = 0.613 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=186 hop limit=63 time = 0.613 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=187 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=188 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=189 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=190 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=191 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=192 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=193 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=194 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=195 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=196 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=197 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=198 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=199 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=200 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=201 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=202 hop limit=63 time = 0.613 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=203 hop limit=63 time = 0.613 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=204 hop limit=63 time = 0.613 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=205 hop limit=63 time = 0.613 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=206 hop limit=63 time = 0.613 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=208 hop limit=63 time = 22.249 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=209 hop limit=63 time = 25.483 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=210 hop limit=63 time = 24.490 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=211 hop limit=63 time = 22.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=212 hop limit=63 time = 29.887 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=212 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=213 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=214 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=215 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=216 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=217 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=218 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=219 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=220 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=221 hop limit=63 time = 0.612 ms
+dropping additional response packet (probably caused by duplicates)
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=222 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=223 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=224 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=225 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=226 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=227 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=228 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=229 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=230 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=231 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=232 hop limit=63 time = 0.612 ms
+dropping additional response packet (probably caused by duplicates)
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=233 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=234 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=235 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=236 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=237 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=238 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=239 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=240 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=241 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=242 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=243 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=244 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=245 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=246 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=247 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=248 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=249 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=250 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=251 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=252 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=253 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=254 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=255 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=256 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=257 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=258 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=259 hop limit=63 time = 0.616 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=260 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=261 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=262 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=263 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=264 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=265 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=266 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=267 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=268 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=269 hop limit=63 time = 0.612 ms
+dropping additional response packet (probably caused by duplicates)
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=271 hop limit=63 time = 32.128 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=272 hop limit=63 time = 24.491 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=273 hop limit=63 time = 29.855 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=274 hop limit=63 time = 27.348 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=274 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=275 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=276 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=277 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=278 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=279 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=280 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=281 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=282 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=283 hop limit=63 time = 0.612 ms
+dropping additional response packet (probably caused by duplicates)
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=284 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=285 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=286 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=287 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=289 hop limit=63 time = 36.188 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=291 hop limit=63 time = 27.047 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=292 hop limit=63 time = 19.766 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=293 hop limit=63 time = 26.629 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=293 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=294 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=295 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=296 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=298 hop limit=63 time = 25.452 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=299 hop limit=63 time = 20.219 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=300 hop limit=63 time = 27.687 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=301 hop limit=63 time = 30.491 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=302 hop limit=63 time = 21.015 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=302 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=303 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=304 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=305 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=306 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=307 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=308 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=309 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=310 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=311 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=312 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=313 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=314 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=315 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=316 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=317 hop limit=63 time = 0.612 ms
+dropping additional response packet (probably caused by duplicates)
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=319 hop limit=63 time = 30.214 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=320 hop limit=63 time = 27.190 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=321 hop limit=63 time = 25.777 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=322 hop limit=63 time = 30.773 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=323 hop limit=63 time = 22.283 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=324 hop limit=63 time = 33.761 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=325 hop limit=63 time = 29.568 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=326 hop limit=63 time = 31.387 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=327 hop limit=63 time = 19.766 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=328 hop limit=63 time = 31.701 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=329 hop limit=63 time = 26.400 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=330 hop limit=63 time = 28.927 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=331 hop limit=63 time = 29.568 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=332 hop limit=63 time = 17.852 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=332 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=333 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=334 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=335 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=336 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=337 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=338 hop limit=63 time = 0.612 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=339 hop limit=63 time = 0.612 ms
+dropping additional response packet (probably caused by duplicates)
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=340 hop limit=63 time = 0.612 ms
+dropping additional response packet (probably caused by duplicates)
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=341 hop limit=63 time = 0.612 ms
+dropping additional response packet (probably caused by duplicates)
+dropping additional response packet (probably caused by duplicates)
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=342 hop limit=63 time = 0.612 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=343 hop limit=63 time = 0.612 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=344 hop limit=63 time = 0.612 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=345 hop limit=63 time = 0.612 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=346 hop limit=63 time = 0.612 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=347 hop limit=63 time = 0.612 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=348 hop limit=63 time = 0.612 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=349 hop limit=63 time = 0.612 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=350 hop limit=63 time = 0.612 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=351 hop limit=63 time = 0.612 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=352 hop limit=63 time = 0.612 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=353 hop limit=63 time = 0.612 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=354 hop limit=63 time = 0.612 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=355 hop limit=63 time = 0.612 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=356 hop limit=63 time = 0.612 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=357 hop limit=63 time = 0.612 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=358 hop limit=63 time = 0.612 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=359 hop limit=63 time = 0.612 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=360 hop limit=63 time = 0.612 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=361 hop limit=63 time = 0.612 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=362 hop limit=63 time = 0.612 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=363 hop limit=63 time = 0.612 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=364 hop limit=63 time = 0.612 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=365 hop limit=63 time = 0.612 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=366 hop limit=63 time = 0.612 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=367 hop limit=63 time = 0.612 ms
+dropping additional response packet (probably caused by duplicates)
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=368 hop limit=63 time = 0.612 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=369 hop limit=63 time = 0.612 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=370 hop limit=63 time = 0.612 ms
+dropping additional response packet (probably caused by duplicates)
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=371 hop limit=63 time = 0.612 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=372 hop limit=63 time = 0.612 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=373 hop limit=63 time = 0.612 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=374 hop limit=63 time = 0.612 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=375 hop limit=63 time = 0.612 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=376 hop limit=63 time = 0.613 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=377 hop limit=63 time = 0.613 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=378 hop limit=63 time = 0.613 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=379 hop limit=63 time = 0.613 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=380 hop limit=63 time = 0.613 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=381 hop limit=63 time = 0.613 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=382 hop limit=63 time = 0.613 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=383 hop limit=63 time = 0.613 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=384 hop limit=63 time = 0.613 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=385 hop limit=63 time = 0.613 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=387 hop limit=63 time = 45.195 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=388 hop limit=63 time = 17.852 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=389 hop limit=63 time = 27.052 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=390 hop limit=63 time = 28.641 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=391 hop limit=63 time = 35.605 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=392 hop limit=63 time = 27.335 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=393 hop limit=63 time = 28.327 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=394 hop limit=63 time = 28.294 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=395 hop limit=63 time = 21.650 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=396 hop limit=63 time = 23.851 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=397 hop limit=63 time = 23.889 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=398 hop limit=63 time = 22.577 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=399 hop limit=63 time = 55.082 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=400 hop limit=63 time = 26.727 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=401 hop limit=63 time = 32.741 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=402 hop limit=63 time = 33.088 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=403 hop limit=63 time = 27.725 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=404 hop limit=63 time = 30.848 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=405 hop limit=63 time = 15.625 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=406 hop limit=63 time = 26.337 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=407 hop limit=63 time = 26.733 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=408 hop limit=63 time = 23.544 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=408 hop limit=63 time = 0.609 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=409 hop limit=63 time = 0.613 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=410 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=411 hop limit=63 time = 0.611 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=412 hop limit=63 time = 0.611 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=413 hop limit=63 time = 0.612 ms
+dropping additional response packet (probably caused by duplicates)
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=414 hop limit=63 time = 0.611 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=415 hop limit=63 time = 0.612 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=416 hop limit=63 time = 0.611 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=419 hop limit=63 time = 20.370 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=420 hop limit=63 time = 28.887 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=421 hop limit=63 time = 26.764 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=423 hop limit=63 time = 29.842 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=424 hop limit=63 time = 28.616 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=425 hop limit=63 time = 28.614 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=426 hop limit=63 time = 25.389 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=427 hop limit=63 time = 17.853 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=428 hop limit=63 time = 37.243 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=429 hop limit=63 time = 36.855 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=430 hop limit=63 time = 27.688 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=431 hop limit=63 time = 25.943 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=432 hop limit=63 time = 23.852 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=433 hop limit=63 time = 29.249 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=434 hop limit=63 time = 23.810 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=435 hop limit=63 time = 21.336 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=436 hop limit=63 time = 27.267 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=437 hop limit=63 time = 38.907 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=438 hop limit=63 time = 31.778 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=439 hop limit=63 time = 30.034 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=440 hop limit=63 time = 28.001 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=441 hop limit=63 time = 23.538 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=442 hop limit=63 time = 31.170 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=443 hop limit=63 time = 28.929 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=444 hop limit=63 time = 31.948 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=445 hop limit=63 time = 29.255 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=446 hop limit=63 time = 31.169 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=447 hop limit=63 time = 27.968 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=448 hop limit=63 time = 23.244 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=449 hop limit=63 time = 24.204 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=449 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=450 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=451 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=452 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=453 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=454 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=455 hop limit=63 time = 0.610 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=456 hop limit=63 time = 0.612 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=457 hop limit=63 time = 0.613 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=458 hop limit=63 time = 0.612 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=459 hop limit=63 time = 0.613 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=460 hop limit=63 time = 0.612 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=461 hop limit=63 time = 0.613 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=462 hop limit=63 time = 0.612 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=463 hop limit=63 time = 0.613 ms
+dropping additional response packet (probably caused by duplicates)
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=464 hop limit=63 time = 0.612 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=465 hop limit=63 time = 0.613 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=466 hop limit=63 time = 0.614 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=467 hop limit=63 time = 0.614 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=468 hop limit=63 time = 0.614 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=469 hop limit=63 time = 0.615 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=470 hop limit=63 time = 0.614 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=471 hop limit=63 time = 0.614 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=472 hop limit=63 time = 0.615 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=474 hop limit=63 time = 27.022 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=475 hop limit=63 time = 24.495 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=476 hop limit=63 time = 20.346 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=478 hop limit=63 time = 26.031 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=479 hop limit=63 time = 30.493 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=480 hop limit=63 time = 38.451 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=481 hop limit=63 time = 23.691 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=482 hop limit=63 time = 23.215 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=483 hop limit=63 time = 22.932 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=484 hop limit=63 time = 21.013 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=485 hop limit=63 time = 25.736 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=486 hop limit=63 time = 37.058 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=487 hop limit=63 time = 30.569 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=489 hop limit=63 time = 24.852 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=490 hop limit=63 time = 27.652 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=491 hop limit=63 time = 24.174 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=492 hop limit=63 time = 20.618 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=493 hop limit=63 time = 16.569 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=494 hop limit=63 time = 31.021 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=495 hop limit=63 time = 27.224 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=496 hop limit=63 time = 29.538 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=496 hop limit=63 time = 0.615 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=497 hop limit=63 time = 0.614 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=498 hop limit=63 time = 0.615 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=499 hop limit=63 time = 0.614 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=500 hop limit=63 time = 0.615 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=501 hop limit=63 time = 0.614 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=502 hop limit=63 time = 0.616 ms
+dropping additional response packet (probably caused by duplicates)
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=503 hop limit=63 time = 0.614 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=504 hop limit=63 time = 0.615 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=505 hop limit=63 time = 0.614 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=506 hop limit=63 time = 0.615 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=507 hop limit=63 time = 0.614 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=508 hop limit=63 time = 0.615 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=509 hop limit=63 time = 0.614 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=511 hop limit=63 time = 27.220 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=512 hop limit=63 time = 20.653 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=513 hop limit=63 time = 31.170 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=514 hop limit=63 time = 27.337 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=515 hop limit=63 time = 33.951 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=516 hop limit=63 time = 31.191 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=517 hop limit=63 time = 21.959 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=518 hop limit=63 time = 31.064 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=519 hop limit=63 time = 37.391 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=520 hop limit=63 time = 21.369 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=521 hop limit=63 time = 28.643 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=522 hop limit=63 time = 38.380 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=523 hop limit=63 time = 32.802 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=524 hop limit=63 time = 28.932 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=525 hop limit=63 time = 17.529 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=525 hop limit=63 time = 0.615 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=526 hop limit=63 time = 0.614 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=527 hop limit=63 time = 0.615 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=528 hop limit=63 time = 0.614 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=529 hop limit=63 time = 0.615 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=530 hop limit=63 time = 0.614 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=531 hop limit=63 time = 0.615 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=532 hop limit=63 time = 0.614 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=533 hop limit=63 time = 0.615 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=534 hop limit=63 time = 0.614 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=535 hop limit=63 time = 0.615 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=536 hop limit=63 time = 0.614 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=537 hop limit=63 time = 0.615 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=538 hop limit=63 time = 0.614 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=539 hop limit=63 time = 0.615 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=541 hop limit=63 time = 25.769 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=542 hop limit=63 time = 31.461 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=543 hop limit=63 time = 33.335 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=544 hop limit=63 time = 29.747 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=545 hop limit=63 time = 20.992 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=546 hop limit=63 time = 20.340 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=547 hop limit=63 time = 23.540 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=548 hop limit=63 time = 38.162 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=549 hop limit=63 time = 27.471 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=550 hop limit=63 time = 39.277 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=551 hop limit=63 time = 36.531 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=551 hop limit=63 time = 0.615 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=552 hop limit=63 time = 0.614 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=553 hop limit=63 time = 0.615 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=554 hop limit=63 time = 0.614 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=555 hop limit=63 time = 0.615 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=556 hop limit=63 time = 0.614 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=557 hop limit=63 time = 0.622 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=558 hop limit=63 time = 0.614 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=559 hop limit=63 time = 0.615 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=560 hop limit=63 time = 0.614 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=561 hop limit=63 time = 0.615 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=562 hop limit=63 time = 0.615 ms
+dropping additional response packet (probably caused by duplicates)
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=563 hop limit=63 time = 0.615 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=564 hop limit=63 time = 0.614 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=565 hop limit=63 time = 0.615 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=566 hop limit=63 time = 0.615 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=567 hop limit=63 time = 0.616 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=568 hop limit=63 time = 0.615 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=569 hop limit=63 time = 0.616 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=570 hop limit=63 time = 0.615 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=571 hop limit=63 time = 0.616 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=572 hop limit=63 time = 0.612 ms
+dropping additional response packet (probably caused by duplicates)
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=573 hop limit=63 time = 0.616 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=574 hop limit=63 time = 0.615 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=575 hop limit=63 time = 0.616 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=576 hop limit=63 time = 0.615 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=577 hop limit=63 time = 0.616 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=578 hop limit=63 time = 0.615 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=579 hop limit=63 time = 0.616 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=580 hop limit=63 time = 0.615 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=581 hop limit=63 time = 0.616 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=582 hop limit=63 time = 0.615 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=583 hop limit=63 time = 0.616 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=584 hop limit=63 time = 0.615 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=585 hop limit=63 time = 0.616 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=586 hop limit=63 time = 0.615 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=587 hop limit=63 time = 0.616 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=588 hop limit=63 time = 0.615 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=589 hop limit=63 time = 0.616 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=590 hop limit=63 time = 0.615 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=591 hop limit=63 time = 0.616 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=592 hop limit=63 time = 0.615 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=593 hop limit=63 time = 0.616 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=594 hop limit=63 time = 0.615 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=595 hop limit=63 time = 0.616 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=596 hop limit=63 time = 0.615 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=597 hop limit=63 time = 0.616 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=598 hop limit=63 time = 0.615 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=599 hop limit=63 time = 0.616 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=600 hop limit=63 time = 0.615 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=601 hop limit=63 time = 0.616 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=602 hop limit=63 time = 0.615 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=603 hop limit=63 time = 0.616 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=604 hop limit=63 time = 0.615 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=605 hop limit=63 time = 0.616 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=606 hop limit=63 time = 0.612 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=607 hop limit=63 time = 0.613 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=608 hop limit=63 time = 0.616 ms
+dropping additional response packet (probably caused by duplicates)
+dropping additional response packet (probably caused by duplicates)
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=609 hop limit=63 time = 0.613 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=610 hop limit=63 time = 0.612 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=611 hop limit=63 time = 0.613 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=612 hop limit=63 time = 0.612 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=613 hop limit=63 time = 0.613 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=614 hop limit=63 time = 0.615 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=615 hop limit=63 time = 0.613 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=616 hop limit=63 time = 0.614 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=617 hop limit=63 time = 0.614 ms
+dropping additional response packet (probably caused by duplicates)
+dropping additional response packet (probably caused by duplicates)
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=618 hop limit=63 time = 0.614 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=619 hop limit=63 time = 0.614 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=620 hop limit=63 time = 0.614 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=621 hop limit=63 time = 0.614 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=622 hop limit=63 time = 0.614 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=623 hop limit=63 time = 0.614 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=624 hop limit=63 time = 0.614 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=625 hop limit=63 time = 0.614 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=626 hop limit=63 time = 0.614 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=627 hop limit=63 time = 0.614 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=628 hop limit=63 time = 0.614 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=629 hop limit=63 time = 0.614 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=630 hop limit=63 time = 0.614 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=631 hop limit=63 time = 0.614 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=632 hop limit=63 time = 0.614 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=633 hop limit=63 time = 0.614 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=635 hop limit=63 time = 23.539 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=636 hop limit=63 time = 27.795 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=637 hop limit=63 time = 21.299 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=638 hop limit=63 time = 20.985 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=639 hop limit=63 time = 30.111 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=640 hop limit=63 time = 23.566 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=640 hop limit=63 time = 0.614 ms
+dropping additional response packet (probably caused by duplicates)
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=641 hop limit=63 time = 0.613 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=642 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=643 hop limit=63 time = 0.618 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=644 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=645 hop limit=63 time = 0.618 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=646 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=647 hop limit=63 time = 0.618 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=648 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=649 hop limit=63 time = 0.618 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=650 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=651 hop limit=63 time = 0.618 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=652 hop limit=63 time = 0.616 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=653 hop limit=63 time = 0.616 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=654 hop limit=63 time = 0.615 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=655 hop limit=63 time = 0.615 ms
+dropping additional response packet (probably caused by duplicates)
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=656 hop limit=63 time = 0.615 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=657 hop limit=63 time = 0.616 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=659 hop limit=63 time = 21.655 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=659 hop limit=63 time = 0.618 ms
+dropping additional response packet (probably caused by duplicates)
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=660 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=661 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=662 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=663 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=664 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=665 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=666 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=667 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=668 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=669 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=670 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=671 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=672 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=673 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=674 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=675 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=676 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=677 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=679 hop limit=63 time = 31.525 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=680 hop limit=63 time = 31.097 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=681 hop limit=63 time = 24.021 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=682 hop limit=63 time = 39.488 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=683 hop limit=63 time = 28.620 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=684 hop limit=63 time = 35.214 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=684 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=685 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=686 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=687 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=688 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=689 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=690 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=691 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=692 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=693 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=694 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=695 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=696 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=697 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=698 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=699 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=700 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=701 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=702 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=703 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=704 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=705 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=706 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=707 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=708 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=709 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=710 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=711 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=712 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=713 hop limit=63 time = 0.617 ms
+dropping additional response packet (probably caused by duplicates)
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=714 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=715 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=716 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=717 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=718 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=719 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=720 hop limit=63 time = 0.618 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=721 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=722 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=723 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=724 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=725 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=726 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=727 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=728 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=729 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=730 hop limit=63 time = 0.618 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=731 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=732 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=733 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=734 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=735 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=736 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=737 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=738 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=739 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=740 hop limit=63 time = 0.618 ms
+dropping additional response packet (probably caused by duplicates)
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=741 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=742 hop limit=63 time = 0.618 ms
+dropping additional response packet (probably caused by duplicates)
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=743 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=744 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=745 hop limit=63 time = 0.617 ms
+dropping additional response packet (probably caused by duplicates)
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=746 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=748 hop limit=63 time = 23.626 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=749 hop limit=63 time = 32.995 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=749 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=750 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=751 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=752 hop limit=63 time = 0.618 ms
+dropping additional response packet (probably caused by duplicates)
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=753 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=754 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=755 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=757 hop limit=63 time = 26.447 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=758 hop limit=63 time = 23.887 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=760 hop limit=63 time = 25.807 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=761 hop limit=63 time = 21.307 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=762 hop limit=63 time = 22.293 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=763 hop limit=63 time = 26.699 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=764 hop limit=63 time = 45.103 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=764 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=765 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=766 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=767 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=768 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=769 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=770 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=771 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=772 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=773 hop limit=63 time = 0.618 ms
+dropping additional response packet (probably caused by duplicates)
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=774 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=775 hop limit=63 time = 0.618 ms
+dropping additional response packet (probably caused by duplicates)
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=776 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=777 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=778 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=779 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=780 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=781 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=782 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=783 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=784 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=785 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=786 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=787 hop limit=63 time = 0.618 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=788 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=789 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=790 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=791 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=792 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=793 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=794 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=795 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=796 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=797 hop limit=63 time = 0.618 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=798 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=799 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=800 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=801 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=802 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=803 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=804 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=805 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=806 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=807 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=808 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=809 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=810 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=811 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=812 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=813 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=814 hop limit=63 time = 0.617 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=817 hop limit=63 time = 25.807 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=818 hop limit=63 time = 32.351 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=819 hop limit=63 time = 25.777 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=820 hop limit=63 time = 23.567 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=821 hop limit=63 time = 37.342 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=823 hop limit=63 time = 38.995 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=823 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=824 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=825 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=826 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=827 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=828 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=829 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=830 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=831 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=832 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=833 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=834 hop limit=63 time = 0.618 ms
+dropping additional response packet (probably caused by duplicates)
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=835 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=836 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=837 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=838 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=839 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=840 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=841 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=842 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=843 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=844 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=846 hop limit=63 time = 20.354 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=847 hop limit=63 time = 33.342 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=848 hop limit=63 time = 24.118 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=849 hop limit=63 time = 26.704 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=850 hop limit=63 time = 30.210 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=851 hop limit=63 time = 20.692 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=852 hop limit=63 time = 15.620 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=853 hop limit=63 time = 35.639 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=854 hop limit=63 time = 23.214 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=855 hop limit=63 time = 30.816 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=856 hop limit=63 time = 38.100 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=857 hop limit=63 time = 29.894 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=858 hop limit=63 time = 46.517 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=859 hop limit=63 time = 30.188 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=860 hop limit=63 time = 30.795 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=861 hop limit=63 time = 22.264 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=862 hop limit=63 time = 23.250 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=863 hop limit=63 time = 25.139 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=864 hop limit=63 time = 32.347 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=865 hop limit=63 time = 27.341 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=866 hop limit=63 time = 19.711 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=867 hop limit=63 time = 22.616 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=868 hop limit=63 time = 19.396 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=869 hop limit=63 time = 29.262 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=870 hop limit=63 time = 38.108 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=871 hop limit=63 time = 32.994 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=872 hop limit=63 time = 31.457 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=873 hop limit=63 time = 29.581 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=874 hop limit=63 time = 41.328 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=875 hop limit=63 time = 41.590 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=876 hop limit=63 time = 33.270 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=877 hop limit=63 time = 33.409 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=878 hop limit=63 time = 17.213 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=879 hop limit=63 time = 22.578 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=880 hop limit=63 time = 38.737 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=881 hop limit=63 time = 29.607 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=882 hop limit=63 time = 31.533 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=883 hop limit=63 time = 29.254 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=884 hop limit=63 time = 28.032 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=885 hop limit=63 time = 26.450 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=885 hop limit=63 time = 0.616 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=887 hop limit=63 time = 25.709 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=888 hop limit=63 time = 25.419 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=889 hop limit=63 time = 27.227 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=890 hop limit=63 time = 20.091 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=891 hop limit=63 time = 26.720 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=892 hop limit=63 time = 39.439 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=893 hop limit=63 time = 33.040 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=894 hop limit=63 time = 41.471 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=895 hop limit=63 time = 27.994 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=896 hop limit=63 time = 23.857 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=897 hop limit=63 time = 26.065 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=898 hop limit=63 time = 24.208 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=899 hop limit=63 time = 24.823 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=900 hop limit=63 time = 39.638 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=901 hop limit=63 time = 27.365 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=902 hop limit=63 time = 26.054 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=903 hop limit=63 time = 32.133 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=904 hop limit=63 time = 43.103 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=905 hop limit=63 time = 31.104 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=906 hop limit=63 time = 25.751 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=907 hop limit=63 time = 17.863 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=908 hop limit=63 time = 35.553 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=909 hop limit=63 time = 32.384 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=910 hop limit=63 time = 23.485 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=911 hop limit=63 time = 27.227 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=912 hop limit=63 time = 31.664 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=913 hop limit=63 time = 30.219 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=914 hop limit=63 time = 21.974 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=915 hop limit=63 time = 24.854 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=917 hop limit=63 time = 21.447 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=919 hop limit=63 time = 26.673 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=920 hop limit=63 time = 25.271 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=921 hop limit=63 time = 29.862 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=922 hop limit=63 time = 33.910 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=923 hop limit=63 time = 26.870 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=924 hop limit=63 time = 34.794 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=925 hop limit=63 time = 31.136 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=926 hop limit=63 time = 23.856 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=927 hop limit=63 time = 28.747 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=928 hop limit=63 time = 24.854 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=929 hop limit=63 time = 33.622 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=930 hop limit=63 time = 27.973 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=931 hop limit=63 time = 30.213 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=932 hop limit=63 time = 22.923 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=933 hop limit=63 time = 30.666 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=934 hop limit=63 time = 33.888 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=935 hop limit=63 time = 27.685 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=937 hop limit=63 time = 31.494 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=938 hop limit=63 time = 37.385 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=939 hop limit=63 time = 21.510 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=940 hop limit=63 time = 17.858 ms
+ping timeout
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=942 hop limit=63 time = 23.888 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=943 hop limit=63 time = 30.534 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=944 hop limit=63 time = 20.067 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=945 hop limit=63 time = 28.426 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=946 hop limit=63 time = 33.867 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=947 hop limit=63 time = 22.150 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=948 hop limit=63 time = 27.547 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=949 hop limit=63 time = 39.803 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=950 hop limit=63 time = 33.740 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=951 hop limit=63 time = 30.532 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=952 hop limit=63 time = 23.800 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=953 hop limit=63 time = 23.526 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=954 hop limit=63 time = 37.631 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=955 hop limit=63 time = 24.499 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=956 hop limit=63 time = 30.810 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=957 hop limit=63 time = 31.061 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=958 hop limit=63 time = 32.986 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=959 hop limit=63 time = 30.533 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=960 hop limit=63 time = 34.650 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=961 hop limit=63 time = 28.687 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=962 hop limit=63 time = 33.679 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=963 hop limit=63 time = 32.385 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=964 hop limit=63 time = 36.990 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=965 hop limit=63 time = 30.528 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=965 hop limit=63 time = 0.618 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=966 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=967 hop limit=63 time = 0.618 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=968 hop limit=63 time = 0.618 ms
+dropping additional response packet (probably caused by duplicates)
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=969 hop limit=63 time = 0.618 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=970 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=971 hop limit=63 time = 0.618 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=972 hop limit=63 time = 0.622 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=973 hop limit=63 time = 0.618 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=974 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=975 hop limit=63 time = 0.618 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=976 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=977 hop limit=63 time = 0.618 ms
+dropping additional response packet (probably caused by duplicates)
+dropping additional response packet (probably caused by duplicates)
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=978 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=979 hop limit=63 time = 0.618 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=980 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=981 hop limit=63 time = 0.618 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=983 hop limit=63 time = 29.900 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=984 hop limit=63 time = 21.308 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=985 hop limit=63 time = 37.218 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=986 hop limit=63 time = 22.269 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=987 hop limit=63 time = 24.742 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=988 hop limit=63 time = 26.769 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=989 hop limit=63 time = 23.431 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=990 hop limit=63 time = 49.893 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=991 hop limit=63 time = 20.546 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=992 hop limit=63 time = 29.110 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=993 hop limit=63 time = 25.666 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=993 hop limit=63 time = 0.617 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=994 hop limit=63 time = 0.619 ms
+dropping additional response packet (probably caused by duplicates)
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=996 hop limit=63 time = 34.941 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=997 hop limit=63 time = 41.396 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=998 hop limit=63 time = 30.743 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=999 hop limit=63 time = 30.102 ms
+12 bytes from 2001:db8::1711:6b10:65f7:851a: id=84 seq=1000 hop limit=63 time = 40.749 ms
+--- 2001:db8::1711:6b10:65f7:851a ping statistics ---
+1000 packets transmitted, 986 received, 2% packet loss, time 1026.0625102 s
+rtt min/avg/max = 0.609/10.931/55.082 ms
