@@ -7,6 +7,7 @@
 3. [The Experiment](#the-experiment)
 4. [Collecting Data](#collecting-data)
 5. [Exploratory Analysis](#exploratory-analysis)
+6. [Next Steps](#next-steps)
 
 ## IPv6LoWPAN, COAP protocol and RPL
 As the name suggest, **IPv6LowPAN** (*IPv6* over *Lo*w-Power *W*ireless *P*ersonal *A*rea *N*etwork) is a networking technology or adaptation layer that allows IPv6 packets to be carried efficiently within small link layer frames defined by IEEE 802.15.4. The following image shows an example of IPv6LoWPAN network that is connected to the IPv6 network using an edge router. 
@@ -120,3 +121,7 @@ The experiment was submitted with the following topology. Node `A8-149` is the r
 
 Dotted lines indicate that if the node loses connection with the parent, it initiates a communication with another parent node. Notice that a lot of times nodes randomly disconnect and reconnect after a while. Now we can start a first analysis of our data. The first results are available in a [Jupyter Notebook](https://github.com/lucamaiano/data-driven-intrusion-detection/blob/master/ExploratoryAnalysis.ipynb). 
 Notice that this is a very short first analysis!
+
+## Next Steps
+
+The rest of the analysis will continue in [Ioannis's repository](https://github.com/ichatz/iot-netprofiler). You can check there the rest of the work.
