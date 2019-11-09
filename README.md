@@ -1,4 +1,4 @@
-# Data Driven Intrusion Detection
+# Data-driven Intrusion Detection for Ambient Intelligence
 
 
 ## Table of Contents
